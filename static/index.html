@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Dining Meal Planner Chatbot</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 24px auto; }
+    #chat { border: 1px solid #ccc; padding: 12px; height: 450px; overflow-y: auto; border-radius: 8px; }
+    .msg { margin: 10px 0; }
+    .user { font-weight: bold; }
+    .bot { font-weight: bold; }
+    pre { background: #f6f6f6; padding: 10px; border-radius: 8px; overflow-x: auto; }
+    #row { display: flex; gap: 10px; margin-top: 12px; }
+    input { flex: 1; padding: 10px; border-radius: 8px; border: 1px solid #ccc; }
+    button { padding: 10px 14px; border-radius: 8px; border: 1px solid #999; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h2>Dining Meal Planner Chatbot</h2>
+  <div id="chat"></div>
+
+  <div id="row">
+    <input id="msg" placeholder="Tell me your goal (e.g., high protein, no eggs, 2400 calories)..." />
+    <button id="send">Send</button>
+  </div>
+
+  <script>
+    const chat = document.getElementById("chat");
+    const input = document.getElementById("msg");
+    const btn = document.getElementById("send");
+
+    // simple session id for demo
+    const sessionId = crypto.randomUUID();
+
+    function addMessage(who, content) {
+      const div = document.createElement("div");
+      div.className = "msg";
+      if (who === "user") {
+        div.innerHTML = `<span class="user">You:</span> ${content}`;
+      } else {
+        div.innerHTML = `<span class="bot">Bot:</span>`;
+        const pre = document.createElement("pre");
+        pre.textContent = content;
+        div.appendChild(pre);
+      }
+      chat.appendChild(div);
+      chat.scrollTop = chat.scrollHeight;
+    }
+
+    async function send() {
+      const text = input.value.trim();
+      if (!text) return;
+      input.value = "";
+      addMessage("user", text);
+
+      const res = await fetch("/chat", {
+        method: "POST",
+        headers: {"Content-Type":"application/json"},
+        body: JSON.stringify({ session_id: sessionId, message: text })
+      });
+
+      const data = await res.json();
+
+      // Display nicely: show question as a sentence; show meal plan JSON formatted
+      if (data.type === "question") {
+        addMessage("bot", data.question);
+      } else {
+        addMessage("bot", JSON.stringify(data, null, 2));
+      }
+    }
+
+    btn.onclick = send;
+    input.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") send();
+    });
+
+    addMessage("bot", "Hi! Tell me your goal, calorie target, and any allergies/diet style. Ask: 'Make me a meal plan.'");
+  </script>
+</body>
+</html>

@@ -1,0 +1,4892 @@
+{
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060062*2": {
+    "name": "Diced Ham",
+    "serving_size": null,
+    "calories": null,
+    "total_fat": null,
+    "saturated_fat": null,
+    "carbs": null,
+    "protein": null,
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060062*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090292*1": {
+    "name": "Diced Onions",
+    "serving_size": "1 oz",
+    "calories": "11",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "2.4g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090292*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040069*4": {
+    "name": "Egg Whites",
+    "serving_size": "4 oz",
+    "calories": "57",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "1.1g",
+    "protein": "12.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040069*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040066*1": {
+    "name": "Hard Boiled Egg (Breakfast)",
+    "serving_size": "1 each",
+    "calories": "79",
+    "total_fat": "5.7g",
+    "saturated_fat": "1.7g",
+    "carbs": "0g",
+    "protein": "6.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040066*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119370*1": {
+    "name": "French Toast",
+    "serving_size": "1 ea",
+    "calories": "251",
+    "total_fat": "10.5g",
+    "saturated_fat": "4.1g",
+    "carbs": "26g",
+    "protein": "10.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119370*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060184*1": {
+    "name": "Cooked Sausage",
+    "serving_size": "1 oz",
+    "calories": "64",
+    "total_fat": "5.4g",
+    "saturated_fat": "1.6g",
+    "carbs": "1g",
+    "protein": "3.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060184*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141123*4": {
+    "name": "Breakfast Potatoes w/ Peppers & Onions",
+    "serving_size": "4 oz",
+    "calories": "69",
+    "total_fat": "0.4g",
+    "saturated_fat": "0g",
+    "carbs": "14.9g",
+    "protein": "1.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141123*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040061*4": {
+    "name": "Liquid Eggs (Omelet Station)",
+    "serving_size": "4 oz",
+    "calories": "170",
+    "total_fat": "11.3g",
+    "saturated_fat": "3.4g",
+    "carbs": "1.1g",
+    "protein": "14.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040061*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090291*1": {
+    "name": "Diced Green Peppers",
+    "serving_size": "1 oz",
+    "calories": "5",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "0.9g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090291*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060022*1": {
+    "name": "Sausage Patty",
+    "serving_size": "1 EACH",
+    "calories": "172",
+    "total_fat": "15g",
+    "saturated_fat": "4.9g",
+    "carbs": "0g",
+    "protein": "8.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060022*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119363*1": {
+    "name": "Maple Syrup",
+    "serving_size": "1 oz",
+    "calories": "58",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "15g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119363*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040063*1": {
+    "name": "Over Hard Fried Eggs",
+    "serving_size": "1 ea",
+    "calories": "90",
+    "total_fat": "6.8g",
+    "saturated_fat": "1.8g",
+    "carbs": "0g",
+    "protein": "6.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040063*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040065*4 1/2": {
+    "name": "Scrambled Cheesy Cheddar Egg",
+    "serving_size": "4 1/2 oz",
+    "calories": "241",
+    "total_fat": "17.5g",
+    "saturated_fat": "5.2g",
+    "carbs": "1.3g",
+    "protein": "18.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040065*4 1/2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040060*4 1/2": {
+    "name": "Scrambled Eggs",
+    "serving_size": "4 1/2 oz",
+    "calories": "216",
+    "total_fat": "15.4g",
+    "saturated_fat": "4.1g",
+    "carbs": "1.3g",
+    "protein": "16.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040060*4 1/2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090265*1": {
+    "name": "Shredded Cheddar Cheese",
+    "serving_size": "1 oz",
+    "calories": "111",
+    "total_fat": "9.1g",
+    "saturated_fat": "5.1g",
+    "carbs": "0g",
+    "protein": "7.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090265*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090201*2": {
+    "name": "Spinach",
+    "serving_size": "2 oz",
+    "calories": "13",
+    "total_fat": "0.2g",
+    "saturated_fat": "0g",
+    "carbs": "2.1g",
+    "protein": "1.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090201*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090248*1": {
+    "name": "Sliced Mushroom",
+    "serving_size": "1 oz",
+    "calories": "7",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "1g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090248*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090262*1": {
+    "name": "Tomatoes Diced",
+    "serving_size": "1 oz",
+    "calories": "2",
+    "total_fat": "0g",
+    "saturated_fat": null,
+    "carbs": "0.4g",
+    "protein": "0.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090262*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150966*3": {
+    "name": "Texas Vegetable Hash",
+    "serving_size": "3 oz",
+    "calories": "47",
+    "total_fat": "0.9g",
+    "saturated_fat": "0g",
+    "carbs": "8g",
+    "protein": "2.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150966*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126785*1": {
+    "name": "Sausage Egg Cheese Breakfast Bagel Sandwich",
+    "serving_size": "1 each",
+    "calories": "1145",
+    "total_fat": "57.2g",
+    "saturated_fat": "16.3g",
+    "carbs": "130g",
+    "protein": "33.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126785*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220065*1": {
+    "name": "Butter",
+    "serving_size": "1 oz",
+    "calories": "203",
+    "total_fat": "22.3g",
+    "saturated_fat": "14.2g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220065*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019401*1": {
+    "name": "Cinnamon Raisin French Toast",
+    "serving_size": "1 each",
+    "calories": "120",
+    "total_fat": "3.7g",
+    "saturated_fat": "0g",
+    "carbs": "20.7g",
+    "protein": "1.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019401*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220066*1": {
+    "name": "Margarine",
+    "serving_size": "1 oz",
+    "calories": "203",
+    "total_fat": "22.3g",
+    "saturated_fat": "10.1g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220066*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100980*1": {
+    "name": "Vegan Breakfast Sausage",
+    "serving_size": "1 EACH",
+    "calories": "70",
+    "total_fat": "3.5g",
+    "saturated_fat": "0g",
+    "carbs": "3g",
+    "protein": "6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100980*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100976*4": {
+    "name": "Banana Farro Oatmeal Pudding",
+    "serving_size": "4 oz",
+    "calories": "130",
+    "total_fat": "5.1g",
+    "saturated_fat": "0.4g",
+    "carbs": "19.7g",
+    "protein": "2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100976*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100210*4": {
+    "name": "Vegan Cheddar Spinach Scrambled Eggs",
+    "serving_size": "4 oz",
+    "calories": "172",
+    "total_fat": "9.3g",
+    "saturated_fat": "3.6g",
+    "carbs": "18.5g",
+    "protein": "6.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100210*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100386*4": {
+    "name": "Cajun Roasted Breakfast Potatoes w/ Peppers & Onions",
+    "serving_size": "4 oz",
+    "calories": "73",
+    "total_fat": "0.6g",
+    "saturated_fat": "0.1g",
+    "carbs": "15.5g",
+    "protein": "1.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100386*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100208*1": {
+    "name": "Vegan Pancake Gluten Free",
+    "serving_size": "1 each",
+    "calories": "128",
+    "total_fat": "3g",
+    "saturated_fat": "0.2g",
+    "carbs": "22.6g",
+    "protein": "2.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100208*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100322*1": {
+    "name": "Vegan Cream Cheese",
+    "serving_size": "1 oz",
+    "calories": "76",
+    "total_fat": "6.6g",
+    "saturated_fat": "4.3g",
+    "carbs": "3.8g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100322*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100321*1": {
+    "name": "Vegan Sour Cream",
+    "serving_size": "1 oz",
+    "calories": "40",
+    "total_fat": "3g",
+    "saturated_fat": "0g",
+    "carbs": "3g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100321*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100213*4": {
+    "name": "Vegan Vanilla Soy-Free Yogurt",
+    "serving_size": "4 oz",
+    "calories": "106",
+    "total_fat": "2.6g",
+    "saturated_fat": "0g",
+    "carbs": "15.9g",
+    "protein": "4.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100213*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100394*6": {
+    "name": "Vegetable Tofu Quiche",
+    "serving_size": "6 oz",
+    "calories": "147",
+    "total_fat": "4.8g",
+    "saturated_fat": "0.2g",
+    "carbs": "19.5g",
+    "protein": "11.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100394*6"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090382*3": {
+    "name": "Blueberry Yogurt",
+    "serving_size": "3 oz",
+    "calories": "68",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "14.3g",
+    "protein": "2.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090382*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090217*2": {
+    "name": "Cantaloupe",
+    "serving_size": "2 oz",
+    "calories": "46",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "11g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090217*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090302*5": {
+    "name": "Cereal Granola",
+    "serving_size": "5 oz",
+    "calories": "194",
+    "total_fat": "2.4g",
+    "saturated_fat": "0g",
+    "carbs": "41.7g",
+    "protein": "3.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090302*5"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220069*1": {
+    "name": "Chopped Green Onions",
+    "serving_size": "1 oz",
+    "calories": "9",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "2.1g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220069*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100219*4": {
+    "name": "Chicken Congee",
+    "serving_size": "4 oz",
+    "calories": "222",
+    "total_fat": "6g",
+    "saturated_fat": "0.6g",
+    "carbs": "36.9g",
+    "protein": "8.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100219*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090263*2": {
+    "name": "Cottage Cheese",
+    "serving_size": "2 oz",
+    "calories": "40",
+    "total_fat": "0.5g",
+    "saturated_fat": "0.3g",
+    "carbs": "3g",
+    "protein": "5.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090263*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090323*2": {
+    "name": "Fresh Strawberry",
+    "serving_size": "2 oz",
+    "calories": "9",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "1.9g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090323*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090324*2": {
+    "name": "Fresh Blueberry",
+    "serving_size": "2 oz",
+    "calories": "52",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "12.3g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090324*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=180004*1": {
+    "name": "Grapefruit Half",
+    "serving_size": "1 half",
+    "calories": "37",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "9.2g",
+    "protein": "0.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=180004*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220109*1": {
+    "name": "Fried Shallot",
+    "serving_size": "1 oz",
+    "calories": "18",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "4.2g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220109*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090216*2": {
+    "name": "Grapes",
+    "serving_size": "2 oz",
+    "calories": "39",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "10g",
+    "protein": "0.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090216*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090326*3": {
+    "name": "Grits",
+    "serving_size": "3 oz",
+    "calories": "60",
+    "total_fat": "0.2g",
+    "saturated_fat": "0g",
+    "carbs": "13.5g",
+    "protein": "1.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090326*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220093*4": {
+    "name": "Kale Pineapple Blueberry Smoothie",
+    "serving_size": "4 oz",
+    "calories": "56",
+    "total_fat": "0.4g",
+    "saturated_fat": "0g",
+    "carbs": "14g",
+    "protein": "1.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220093*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100218*1": {
+    "name": "Kimchi",
+    "serving_size": "1 oz",
+    "calories": "17",
+    "total_fat": "0.3g",
+    "saturated_fat": "0g",
+    "carbs": "3.2g",
+    "protein": "0.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100218*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220115*1": {
+    "name": "Lite Soy Sauce",
+    "serving_size": "1 oz",
+    "calories": "20",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "2g",
+    "protein": "2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220115*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220205*4": {
+    "name": "Mango Lassi",
+    "serving_size": "4 oz",
+    "calories": "56",
+    "total_fat": "0.2g",
+    "saturated_fat": "0.1g",
+    "carbs": "8.5g",
+    "protein": "4.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220205*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090437*1": {
+    "name": "Orange Wedges",
+    "serving_size": "1 each",
+    "calories": "104",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "24.7g",
+    "protein": "1.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090437*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090327*3": {
+    "name": "Oatmeal",
+    "serving_size": "3 oz",
+    "calories": "340",
+    "total_fat": "6.8g",
+    "saturated_fat": "1.1g",
+    "carbs": "61.2g",
+    "protein": "11.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090327*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090213*2": {
+    "name": "Pears in syrup",
+    "serving_size": "2 oz",
+    "calories": "28",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "7.3g",
+    "protein": "0.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090213*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090212*2": {
+    "name": "Peaches in syrup",
+    "serving_size": "2 oz",
+    "calories": "31",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "8.3g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090212*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090215*2": {
+    "name": "Pineapple",
+    "serving_size": "2 oz",
+    "calories": "40",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "10.5g",
+    "protein": "0.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090215*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090436*1": {
+    "name": "Sliced Apples",
+    "serving_size": "1 each",
+    "calories": "72",
+    "total_fat": "0.2g",
+    "saturated_fat": null,
+    "carbs": "19.1g",
+    "protein": "0.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090436*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150350*3": {
+    "name": "Roasted Corn",
+    "serving_size": "3 oz",
+    "calories": "126",
+    "total_fat": "1.5g",
+    "saturated_fat": "0g",
+    "carbs": "26.4g",
+    "protein": "3.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150350*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220070*1": {
+    "name": "Sliced Lemons",
+    "serving_size": "1 each",
+    "calories": "3",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "1.2g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220070*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090319*5": {
+    "name": "Special K Berry",
+    "serving_size": "5 oz",
+    "calories": "503",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "123.5g",
+    "protein": "9.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090319*5"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903343*4": {
+    "name": "Vanilla Greek Yogurt",
+    "serving_size": "4 oz",
+    "calories": "86",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "14.6g",
+    "protein": "9.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903343*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090298*3": {
+    "name": "Yogurt Plain",
+    "serving_size": "3 oz",
+    "calories": "77",
+    "total_fat": "0.8g",
+    "saturated_fat": "0.6g",
+    "carbs": "14.7g",
+    "protein": "3.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090298*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090214*2": {
+    "name": "Watermelon",
+    "serving_size": "2 each",
+    "calories": "50",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "13.6g",
+    "protein": "0.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090214*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119394*1": {
+    "name": "Blueberry Muffin",
+    "serving_size": "1 each",
+    "calories": "169",
+    "total_fat": "5g",
+    "saturated_fat": "1g",
+    "carbs": "29.8g",
+    "protein": "2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119394*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119360*1": {
+    "name": "Bagels",
+    "serving_size": "1 ea",
+    "calories": "295",
+    "total_fat": "1.2g",
+    "saturated_fat": "0.3g",
+    "carbs": "60.5g",
+    "protein": "10g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119360*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090304*5": {
+    "name": "Cereal Apple Jacks",
+    "serving_size": "5 oz",
+    "calories": "354",
+    "total_fat": "1.8g",
+    "saturated_fat": "0.4g",
+    "carbs": "82.6g",
+    "protein": "2.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090304*5"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090305*5": {
+    "name": "Cereal Cinnamon Toast Crunch",
+    "serving_size": "5 oz",
+    "calories": "380",
+    "total_fat": "8.8g",
+    "saturated_fat": "1.5g",
+    "carbs": "73.2g",
+    "protein": "2.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090305*5"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090309*5": {
+    "name": "Cereal Frosted Flakes",
+    "serving_size": "5 oz",
+    "calories": "344",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "81.3g",
+    "protein": "3.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090309*5"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090313*5": {
+    "name": "Cereal Honey Nut Cheerios",
+    "serving_size": "5 oz",
+    "calories": "356",
+    "total_fat": "4.9g",
+    "saturated_fat": "0g",
+    "carbs": "71.3g",
+    "protein": "6.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090313*5"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090316*5": {
+    "name": "Cereal Reeses Puffs",
+    "serving_size": "5 oz",
+    "calories": "386",
+    "total_fat": "8.8g",
+    "saturated_fat": "1.7g",
+    "carbs": "70.8g",
+    "protein": "5.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090316*5"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090317*5": {
+    "name": "Cereal Rice Chex",
+    "serving_size": "5 oz",
+    "calories": "91",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "20.9g",
+    "protein": "1.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090317*5"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090320*5": {
+    "name": "Cereal Total Raisin Bran",
+    "serving_size": "5 oz",
+    "calories": "292",
+    "total_fat": "1.5g",
+    "saturated_fat": "0g",
+    "carbs": "70.7g",
+    "protein": "7.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090320*5"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119396*1": {
+    "name": "Chocolate Muffin",
+    "serving_size": null,
+    "calories": null,
+    "total_fat": null,
+    "saturated_fat": null,
+    "carbs": null,
+    "protein": null,
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119396*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119364*1": {
+    "name": "Donuts",
+    "serving_size": "1 EACH",
+    "calories": "138",
+    "total_fat": "7.3g",
+    "saturated_fat": "2.4g",
+    "carbs": "17g",
+    "protein": "1.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119364*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090301*5": {
+    "name": "Coco Puffs",
+    "serving_size": "5 oz",
+    "calories": "187",
+    "total_fat": "2.8g",
+    "saturated_fat": "0g",
+    "carbs": "42.9g",
+    "protein": "1.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090301*5"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019376*1": {
+    "name": "Mini Cinnamon Bun",
+    "serving_size": null,
+    "calories": null,
+    "total_fat": null,
+    "saturated_fat": null,
+    "carbs": null,
+    "protein": null,
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019376*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119374*1": {
+    "name": "Mini Croissant",
+    "serving_size": "1 each",
+    "calories": "123",
+    "total_fat": "5.5g",
+    "saturated_fat": "3.7g",
+    "carbs": "14.8g",
+    "protein": "2.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119374*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102004*1": {
+    "name": "Rainbow Sprinkles",
+    "serving_size": "1 oz",
+    "calories": "136",
+    "total_fat": "2.3g",
+    "saturated_fat": "2g",
+    "carbs": "20.7g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102004*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090329*2": {
+    "name": "Strawberry Topping",
+    "serving_size": "2 oz",
+    "calories": "94",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "20.5g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090329*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090331*1": {
+    "name": "Plain Cream Cheese",
+    "serving_size": "1 oz",
+    "calories": "101",
+    "total_fat": "9.1g",
+    "saturated_fat": "6.1g",
+    "carbs": "1g",
+    "protein": "9.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090331*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090328*7": {
+    "name": "Waffle",
+    "serving_size": "7 oz",
+    "calories": "785",
+    "total_fat": "47.9g",
+    "saturated_fat": "26.8g",
+    "carbs": "71.9g",
+    "protein": "16.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090328*7"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090330*1": {
+    "name": "Whipped Cream",
+    "serving_size": "1 oz",
+    "calories": "35",
+    "total_fat": "2.4g",
+    "saturated_fat": "2.4g",
+    "carbs": "2.4g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090330*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080621*4": {
+    "name": "Filipino Chicken Tinola GF",
+    "serving_size": "4 oz",
+    "calories": "113",
+    "total_fat": "4.3g",
+    "saturated_fat": "1.3g",
+    "carbs": "1.1g",
+    "protein": "18.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080621*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060124*4": {
+    "name": "Five Spice Roast Pork",
+    "serving_size": "4 oz",
+    "calories": "326",
+    "total_fat": "27.2g",
+    "saturated_fat": "8.6g",
+    "carbs": "4.6g",
+    "protein": "14.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060124*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151671*3": {
+    "name": "Cabbage Stir Fry GF",
+    "serving_size": "3 oz",
+    "calories": "63",
+    "total_fat": "2.6g",
+    "saturated_fat": "0.2g",
+    "carbs": "10g",
+    "protein": "0.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151671*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145236*3": {
+    "name": "Jalapeno Lime Quinoa GF",
+    "serving_size": "3 oz",
+    "calories": "146",
+    "total_fat": "4.1g",
+    "saturated_fat": "0.1g",
+    "carbs": "21.7g",
+    "protein": "4.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145236*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019410*1": {
+    "name": "Northern Bakehouse Burger Bun",
+    "serving_size": "1 each",
+    "calories": "88",
+    "total_fat": "4.1g",
+    "saturated_fat": "0.3g",
+    "carbs": "11.6g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019410*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151061*3": {
+    "name": "Red Chili and Garlic Bok Choy",
+    "serving_size": "3 oz",
+    "calories": "37",
+    "total_fat": "3g",
+    "saturated_fat": "0.2g",
+    "carbs": "2.2g",
+    "protein": "1.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151061*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220084*1": {
+    "name": "Provolone Cheese Sliced",
+    "serving_size": "1 each",
+    "calories": "76",
+    "total_fat": "6.1g",
+    "saturated_fat": "3g",
+    "carbs": "0g",
+    "protein": "5.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220084*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090370*2": {
+    "name": "Sliced Roma Tomatoes",
+    "serving_size": "2 oz",
+    "calories": "5",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "1.1g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090370*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151275*3": {
+    "name": "Snow Peas & Mushrooms",
+    "serving_size": "3 oz",
+    "calories": "82",
+    "total_fat": "1.9g",
+    "saturated_fat": "0.1g",
+    "carbs": "10.9g",
+    "protein": "4.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151275*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145126*3": {
+    "name": "Sticky Rice",
+    "serving_size": "3 oz",
+    "calories": "113",
+    "total_fat": "0.2g",
+    "saturated_fat": "0g",
+    "carbs": "24.8g",
+    "protein": "2.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145126*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151120*4": {
+    "name": "Sweet Chili Spicy Garlic Grilled Cauliflower",
+    "serving_size": "4 oz",
+    "calories": "70",
+    "total_fat": "1.1g",
+    "saturated_fat": "0.1g",
+    "carbs": "14g",
+    "protein": "1.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151120*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=101053*1": {
+    "name": "Black Bean Burger with Maple Fried Sweet Potatoes & Chipotle",
+    "serving_size": "1 each",
+    "calories": "412",
+    "total_fat": "4.8g",
+    "saturated_fat": "0g",
+    "carbs": "77.8g",
+    "protein": "15.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=101053*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100893*5": {
+    "name": "General Tso's Tempura Cauliflower",
+    "serving_size": "5 oz",
+    "calories": "2922",
+    "total_fat": "0.7g",
+    "saturated_fat": "0g",
+    "carbs": "664.6g",
+    "protein": "45.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100893*5"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=101052*1": {
+    "name": "Margherita Flatbread with Vegan Ricotta & Basil",
+    "serving_size": "1 each",
+    "calories": "372",
+    "total_fat": "19g",
+    "saturated_fat": "4.4g",
+    "carbs": "28.1g",
+    "protein": "25.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=101052*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100378*3": {
+    "name": "Herb Marinated Seared Tofu",
+    "serving_size": "3 oz",
+    "calories": "154",
+    "total_fat": "10.9g",
+    "saturated_fat": "1.2g",
+    "carbs": "3.1g",
+    "protein": "14g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100378*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100345*4": {
+    "name": "Vegan Teriyaki Tofu Stir Fry",
+    "serving_size": "4 oz",
+    "calories": "116",
+    "total_fat": "6.1g",
+    "saturated_fat": "0.8g",
+    "carbs": "6.3g",
+    "protein": "11.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100345*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100329*4": {
+    "name": "Brown Rice",
+    "serving_size": "4 oz",
+    "calories": "134",
+    "total_fat": "1g",
+    "saturated_fat": "0g",
+    "carbs": "28.3g",
+    "protein": "2.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100329*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145129*3": {
+    "name": "Fried Rice",
+    "serving_size": "3 oz",
+    "calories": "95",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "20.2g",
+    "protein": "2.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145129*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150872*3": {
+    "name": "Garlic Roasted Green Beans",
+    "serving_size": "3 oz",
+    "calories": "30",
+    "total_fat": "0.6g",
+    "saturated_fat": "0g",
+    "carbs": "6.1g",
+    "protein": "1.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150872*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100300*3": {
+    "name": "Italian Herbed Lentils",
+    "serving_size": "3 oz",
+    "calories": "154",
+    "total_fat": "0.6g",
+    "saturated_fat": "0g",
+    "carbs": "26g",
+    "protein": "11.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100300*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141131*4": {
+    "name": "Moroccan Roasted Yukon Gold Potaoes",
+    "serving_size": "4 oz",
+    "calories": "103",
+    "total_fat": "1.2g",
+    "saturated_fat": "0.1g",
+    "carbs": "20.4g",
+    "protein": "2.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141131*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080423*1": {
+    "name": "Enchiladas Suizas Chicken Enchiladas",
+    "serving_size": "1 oz",
+    "calories": "41",
+    "total_fat": "2.6g",
+    "saturated_fat": "1.4g",
+    "carbs": "2.3g",
+    "protein": "3.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080423*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060094*4": {
+    "name": "Cuban Mojo Roasted Pork (purple)",
+    "serving_size": "4 oz",
+    "calories": "223",
+    "total_fat": "19.1g",
+    "saturated_fat": "6.2g",
+    "carbs": "1.6g",
+    "protein": "10.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060094*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080618*4": {
+    "name": "Garlic Ancho Chili Grilled Chicken",
+    "serving_size": "4 oz",
+    "calories": "548",
+    "total_fat": "44.3g",
+    "saturated_fat": "5.5g",
+    "carbs": "10.1g",
+    "protein": "37.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080618*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220068*1": {
+    "name": "Chopped Cilantro",
+    "serving_size": "1 oz",
+    "calories": "1",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0.2g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220068*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019405*1": {
+    "name": "Corn Tostada",
+    "serving_size": "1 ea",
+    "calories": "77",
+    "total_fat": "2.2g",
+    "saturated_fat": "0.5g",
+    "carbs": "12.5g",
+    "protein": "1.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019405*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220137*1": {
+    "name": "Cotija Cheese",
+    "serving_size": "1 oz",
+    "calories": "101",
+    "total_fat": "8.1g",
+    "saturated_fat": "5.1g",
+    "carbs": "0g",
+    "protein": "6.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220137*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019404*1": {
+    "name": "Crisp Cinnamon Tortillas",
+    "serving_size": "1 ea",
+    "calories": "108",
+    "total_fat": "2g",
+    "saturated_fat": "1g",
+    "carbs": "19.8g",
+    "protein": "3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019404*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019407*1": {
+    "name": "Fresh Tortillas",
+    "serving_size": "1 each",
+    "calories": "109",
+    "total_fat": "3g",
+    "saturated_fat": "1.5g",
+    "carbs": "17.8g",
+    "protein": "3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019407*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150371*2": {
+    "name": "Fried Plantains",
+    "serving_size": "2 oz",
+    "calories": "102",
+    "total_fat": "2g",
+    "saturated_fat": "0.3g",
+    "carbs": "19.3g",
+    "protein": "1.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150371*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220053*1": {
+    "name": "Guacamole",
+    "serving_size": "1 oz",
+    "calories": "24",
+    "total_fat": "2.4g",
+    "saturated_fat": "0.5g",
+    "carbs": "1.4g",
+    "protein": "0.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220053*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220124*1": {
+    "name": "Lime Wedges",
+    "serving_size": "1 each",
+    "calories": "4",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0.9g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220124*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145178*3": {
+    "name": "Guatemalan Rice Pilaf",
+    "serving_size": "3 OZ",
+    "calories": "161",
+    "total_fat": "0.6g",
+    "saturated_fat": "0g",
+    "carbs": "34g",
+    "protein": "4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145178*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151106*4": {
+    "name": "Puerto Rican Habichelas Guisadas",
+    "serving_size": "4 oz",
+    "calories": "130",
+    "total_fat": "6.4g",
+    "saturated_fat": "0.5g",
+    "carbs": "14.5g",
+    "protein": "3.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151106*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220051*1": {
+    "name": "Pico de Gallo",
+    "serving_size": "1 oz",
+    "calories": "7",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "1.5g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220051*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135257*2": {
+    "name": "Queso Blanco",
+    "serving_size": null,
+    "calories": null,
+    "total_fat": null,
+    "saturated_fat": null,
+    "carbs": null,
+    "protein": null,
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135257*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135245*1": {
+    "name": "Salsa Roja",
+    "serving_size": "1 oz",
+    "calories": "5",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "1.3g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135245*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135235*1": {
+    "name": "Salsa Verde",
+    "serving_size": "1 oz",
+    "calories": "15",
+    "total_fat": "0.8g",
+    "saturated_fat": "0.1g",
+    "carbs": "2g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135235*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220064*1": {
+    "name": "Shredded Jack Cheedar Cheese",
+    "serving_size": "1 OZ",
+    "calories": "111",
+    "total_fat": "9.1g",
+    "saturated_fat": "6.1g",
+    "carbs": "1g",
+    "protein": "7.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220064*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126332*1": {
+    "name": "Shredded Lettuce",
+    "serving_size": "1 oz",
+    "calories": "5",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0.9g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126332*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220067*1": {
+    "name": "Sliced Jalapeno Peppers",
+    "serving_size": "1 oz",
+    "calories": "4",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0.8g",
+    "protein": "0.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220067*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220050*1": {
+    "name": "Sour Cream",
+    "serving_size": "1 oz",
+    "calories": "57",
+    "total_fat": "4.7g",
+    "saturated_fat": "3.3g",
+    "carbs": "18.9g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220050*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150349*3": {
+    "name": "Spicy Black Beans",
+    "serving_size": "3 oz",
+    "calories": "47",
+    "total_fat": "0.5g",
+    "saturated_fat": "0g",
+    "carbs": "7.5g",
+    "protein": "2.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150349*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126882*1": {
+    "name": "Green Goddess Grilled Chicken Feta Cucumber Tomato Spinach",
+    "serving_size": "1 each",
+    "calories": "61",
+    "total_fat": "1.6g",
+    "saturated_fat": "0.5g",
+    "carbs": "4.6g",
+    "protein": "7.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126882*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141117*2": {
+    "name": "Tortilla Chip",
+    "serving_size": "2 oz",
+    "calories": "162",
+    "total_fat": "2g",
+    "saturated_fat": "0g",
+    "carbs": "32.4g",
+    "protein": "4.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141117*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126405*1": {
+    "name": "SPICY FRIED CHICKEN SANDWICH WITH COLESLAW",
+    "serving_size": "1 each",
+    "calories": "463",
+    "total_fat": "26.9g",
+    "saturated_fat": "8g",
+    "carbs": "23.8g",
+    "protein": "30.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126405*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126871*1": {
+    "name": "Tuna Melt with Tomato and Cheddar Cheese",
+    "serving_size": "1 each",
+    "calories": "447",
+    "total_fat": "26.5g",
+    "saturated_fat": "11.7g",
+    "carbs": "28.1g",
+    "protein": "26.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126871*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220082*1": {
+    "name": "American Cheese Sliced",
+    "serving_size": "1 each",
+    "calories": "56",
+    "total_fat": "4.6g",
+    "saturated_fat": "2.5g",
+    "carbs": "0.5g",
+    "protein": "3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220082*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220120*1": {
+    "name": "Chipotle Mayonnaise",
+    "serving_size": "1 oz",
+    "calories": "182",
+    "total_fat": "20.3g",
+    "saturated_fat": "3g",
+    "carbs": "2g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220120*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220177*1": {
+    "name": "Fresh Bread Butter Pickles",
+    "serving_size": "1 oz",
+    "calories": "35",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "8.5g",
+    "protein": "0.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220177*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151166*1": {
+    "name": "Creamy Cole Slaw",
+    "serving_size": "1 OZ",
+    "calories": "14",
+    "total_fat": "0.7g",
+    "saturated_fat": "0.1g",
+    "carbs": "2.1g",
+    "protein": "0.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151166*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126379*3": {
+    "name": "Ham Sliced",
+    "serving_size": "3 oz",
+    "calories": "152",
+    "total_fat": "11.1g",
+    "saturated_fat": "3.5g",
+    "carbs": "2g",
+    "protein": "10.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126379*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220118*1": {
+    "name": "Hot Sauce",
+    "serving_size": "1 oz",
+    "calories": "0",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "7.1g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220118*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141116*2": {
+    "name": "Kettle Potato Chip",
+    "serving_size": "2 oz",
+    "calories": "111",
+    "total_fat": "5.4g",
+    "saturated_fat": "1.4g",
+    "carbs": "14.2g",
+    "protein": "1.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141116*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150313*1/4": {
+    "name": "Leaf Lettuce",
+    "serving_size": "1/4 oz",
+    "calories": "17",
+    "total_fat": "0.2g",
+    "saturated_fat": "0g",
+    "carbs": "3.2g",
+    "protein": "1.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150313*1/4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151201*4": {
+    "name": "Pesto Pasta Salad with Sundried Tomatoes",
+    "serving_size": "4 oz",
+    "calories": "190",
+    "total_fat": "6.4g",
+    "saturated_fat": "2g",
+    "carbs": "26.4g",
+    "protein": "8.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151201*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151295*3": {
+    "name": "Potato Salad",
+    "serving_size": "3 oz",
+    "calories": "148",
+    "total_fat": "6.4g",
+    "saturated_fat": "0.8g",
+    "carbs": "20.5g",
+    "protein": "2.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151295*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019411*2": {
+    "name": "Pullman Wheat Bread Sliced",
+    "serving_size": "2 slices",
+    "calories": "127",
+    "total_fat": "1.4g",
+    "saturated_fat": "0g",
+    "carbs": "24.5g",
+    "protein": "6.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019411*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150314*2": {
+    "name": "Sliced Tomatoes",
+    "serving_size": "2 each",
+    "calories": "7",
+    "total_fat": "0.1g",
+    "saturated_fat": null,
+    "carbs": "1.5g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150314*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119367*1": {
+    "name": "Biscuit",
+    "serving_size": "1 ea",
+    "calories": "272",
+    "total_fat": "12.1g",
+    "saturated_fat": "8.1g",
+    "carbs": "34.3g",
+    "protein": "6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119367*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090254*1": {
+    "name": "Sliced Red Onion",
+    "serving_size": "1 oz",
+    "calories": "11",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "2.6g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090254*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150304*4": {
+    "name": "Collard Green with Smoked Turkey",
+    "serving_size": "4 oz",
+    "calories": "67",
+    "total_fat": "0.2g",
+    "saturated_fat": "0g",
+    "carbs": "10.3g",
+    "protein": "7.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150304*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090274*1": {
+    "name": "Ranch Dressing",
+    "serving_size": "1 oz",
+    "calories": "140",
+    "total_fat": "14g",
+    "saturated_fat": "2g",
+    "carbs": "2g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090274*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126378*3": {
+    "name": "Turkey Sliced",
+    "serving_size": "3 oz",
+    "calories": "76",
+    "total_fat": "1.5g",
+    "saturated_fat": "0g",
+    "carbs": "1.5g",
+    "protein": "13.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126378*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080435*4": {
+    "name": "Nashville Hot Fried Chicken",
+    "serving_size": "4 oz",
+    "calories": "255",
+    "total_fat": "10.2g",
+    "saturated_fat": "4.1g",
+    "carbs": "15.7g",
+    "protein": "28.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080435*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080428*1": {
+    "name": "Peruvian Roasted Chicken & Spicy Cilantro Sauce",
+    "serving_size": "1 ea",
+    "calories": "395",
+    "total_fat": "28g",
+    "saturated_fat": "8.1g",
+    "carbs": "0.6g",
+    "protein": "34.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080428*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150986*3": {
+    "name": "Chili Lime Corn",
+    "serving_size": "3 oz",
+    "calories": "123",
+    "total_fat": "6.3g",
+    "saturated_fat": "3.2g",
+    "carbs": "14.6g",
+    "protein": "5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150986*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115258*4": {
+    "name": "Five Cheese Macaroni Bake",
+    "serving_size": "4 oz",
+    "calories": "394",
+    "total_fat": "16.3g",
+    "saturated_fat": "8.7g",
+    "carbs": "46.3g",
+    "protein": "17.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115258*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150308*4": {
+    "name": "Fresh Roasted Carrots",
+    "serving_size": "4 oz",
+    "calories": "60",
+    "total_fat": "1.4g",
+    "saturated_fat": "0.1g",
+    "carbs": "9.3g",
+    "protein": "1.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150308*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150309*4": {
+    "name": "Fresh Steamed Broccoli",
+    "serving_size": "4 oz",
+    "calories": "12",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "1.9g",
+    "protein": "1.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150309*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150311*4": {
+    "name": "Maple Roasted Sweet Potatoes",
+    "serving_size": "4 oz",
+    "calories": "161",
+    "total_fat": "0.6g",
+    "saturated_fat": "0.1g",
+    "carbs": "37.9g",
+    "protein": "2.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150311*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150992*3": {
+    "name": "Mushroom Masala",
+    "serving_size": "3 oz",
+    "calories": "49",
+    "total_fat": "2.2g",
+    "saturated_fat": "1.4g",
+    "carbs": "6g",
+    "protein": "2.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150992*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115013*6": {
+    "name": "Baked Alfredo Pesto Shells",
+    "serving_size": "6 oz",
+    "calories": "148",
+    "total_fat": "13.2g",
+    "saturated_fat": "6.7g",
+    "carbs": "2.2g",
+    "protein": "5.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115013*6"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150072*4": {
+    "name": "Roasted Chayote Squash",
+    "serving_size": "4 oz",
+    "calories": "39",
+    "total_fat": "2.1g",
+    "saturated_fat": "0.1g",
+    "carbs": "5.2g",
+    "protein": "0.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150072*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135116*2": {
+    "name": "Alfredo Sauce",
+    "serving_size": "2 oz",
+    "calories": "111",
+    "total_fat": "9.4g",
+    "saturated_fat": "5.9g",
+    "carbs": "4.1g",
+    "protein": "2.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135116*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060068*4": {
+    "name": "Italian Sausage and Peppers",
+    "serving_size": "4 oz",
+    "calories": "277",
+    "total_fat": "23g",
+    "saturated_fat": "8.1g",
+    "carbs": "2.7g",
+    "protein": "18.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060068*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115111*3": {
+    "name": "Chorizo Broccoli Red Pepper Penne with Cheddar",
+    "serving_size": "3 oz",
+    "calories": "160",
+    "total_fat": "8.2g",
+    "saturated_fat": "3.2g",
+    "carbs": "14.3g",
+    "protein": "7.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115111*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135002*1": {
+    "name": "Roasted Garlic Basil Marinara Sauce",
+    "serving_size": "1 OZL",
+    "calories": "16",
+    "total_fat": "0.7g",
+    "saturated_fat": "0g",
+    "carbs": "1.8g",
+    "protein": "0.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135002*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115009*6": {
+    "name": "Roasted Red Pepper White Cheddar Mac and Cheese",
+    "serving_size": "6 oz",
+    "calories": "244",
+    "total_fat": "9.9g",
+    "saturated_fat": "5.3g",
+    "carbs": "27.1g",
+    "protein": "10.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115009*6"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126391*1": {
+    "name": "American Grilled Cheese Sandwich",
+    "serving_size": "1 each",
+    "calories": "328",
+    "total_fat": "11.7g",
+    "saturated_fat": "5.3g",
+    "carbs": "41.5g",
+    "protein": "12.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126391*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115199*4": {
+    "name": "Semolina Pasta Cooked",
+    "serving_size": "4 oz",
+    "calories": "142",
+    "total_fat": "2.1g",
+    "saturated_fat": "0.1g",
+    "carbs": "26.9g",
+    "protein": "4.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115199*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090279*1": {
+    "name": "Balsamic Dressing",
+    "serving_size": "1 oz",
+    "calories": "57",
+    "total_fat": "4.7g",
+    "saturated_fat": "0.5g",
+    "carbs": "3.8g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090279*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090297*1": {
+    "name": "Blue Cheese Dressing",
+    "serving_size": "1 oz",
+    "calories": "151",
+    "total_fat": "16.1g",
+    "saturated_fat": "3.3g",
+    "carbs": "0.9g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090297*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090251*1": {
+    "name": "Broccoli",
+    "serving_size": "1 oz",
+    "calories": "9",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "1.5g",
+    "protein": "0.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090251*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903370*1": {
+    "name": "Balsamic Vinegar",
+    "serving_size": "1 oz",
+    "calories": "25",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "4.8g",
+    "protein": "0.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903370*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090280*1": {
+    "name": "Caesar Dressing",
+    "serving_size": "1 oz",
+    "calories": "120",
+    "total_fat": "13g",
+    "saturated_fat": "2g",
+    "carbs": "1g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090280*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090347*6": {
+    "name": "Chicken Noodle Soup",
+    "serving_size": "6 oz",
+    "calories": "201",
+    "total_fat": "0g",
+    "saturated_fat": "1.5g",
+    "carbs": "27.8g",
+    "protein": "10.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090347*6"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090210*1": {
+    "name": "Black Beans",
+    "serving_size": "1 oz",
+    "calories": "28",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "3.8g",
+    "protein": "1.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090210*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090398*1": {
+    "name": "Chicken Strips",
+    "serving_size": "1 oz",
+    "calories": "44",
+    "total_fat": "1.7g",
+    "saturated_fat": "0.5g",
+    "carbs": "1g",
+    "protein": "6.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090398*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090204*2": {
+    "name": "Chopped Kale",
+    "serving_size": "2 oz",
+    "calories": "29",
+    "total_fat": "0.6g",
+    "saturated_fat": "0.1g",
+    "carbs": "5.5g",
+    "protein": "2.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090204*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090202*2": {
+    "name": "Chopped Lettuce",
+    "serving_size": "2 oz",
+    "calories": "7",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "2g",
+    "protein": "0.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090202*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090344*6": {
+    "name": "Corn Chowder",
+    "serving_size": "6 oz",
+    "calories": "173",
+    "total_fat": "5g",
+    "saturated_fat": "2.2g",
+    "carbs": "27.4g",
+    "protein": "2.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090344*6"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090260*1": {
+    "name": "Corn",
+    "serving_size": "1 oz",
+    "calories": "32",
+    "total_fat": "0.3g",
+    "saturated_fat": "0g",
+    "carbs": "6.6g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090260*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090255*1": {
+    "name": "Diced Green Pepper",
+    "serving_size": "1 oz",
+    "calories": "5",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "0.9g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090255*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090203*2": {
+    "name": "Chopped Romaine",
+    "serving_size": "2 oz",
+    "calories": "10",
+    "total_fat": "0.2g",
+    "saturated_fat": "0g",
+    "carbs": "1.9g",
+    "protein": "0.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090203*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090278*1": {
+    "name": "FF Italian",
+    "serving_size": "1 oz",
+    "calories": "10",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "3g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090278*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090209*1": {
+    "name": "Garbanzo Beans",
+    "serving_size": "1 oz",
+    "calories": "66",
+    "total_fat": "1.1g",
+    "saturated_fat": "0g",
+    "carbs": "11.1g",
+    "protein": "3.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090209*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090261*1": {
+    "name": "Cucumber",
+    "serving_size": "1 oz",
+    "calories": "2",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0.5g",
+    "protein": "0.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090261*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090371*1": {
+    "name": "Cran Raisin",
+    "serving_size": "1 oz",
+    "calories": "123",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "31.2g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090371*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090273*1": {
+    "name": "Crouton",
+    "serving_size": "1 oz",
+    "calories": "61",
+    "total_fat": "2g",
+    "saturated_fat": "0g",
+    "carbs": "10.1g",
+    "protein": "2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090273*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090269*2": {
+    "name": "Eggs",
+    "serving_size": "2 oz",
+    "calories": "96",
+    "total_fat": "7.2g",
+    "saturated_fat": "1.8g",
+    "carbs": "1.2g",
+    "protein": "8.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090269*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090394*1": {
+    "name": "Grated Parmesan Cheese",
+    "serving_size": "1 oz",
+    "calories": "113",
+    "total_fat": "11.3g",
+    "saturated_fat": "5.7g",
+    "carbs": "0g",
+    "protein": "11.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090394*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220216*4": {
+    "name": "Kale Pineapple Blueberry Smoothie",
+    "serving_size": "4 oz",
+    "calories": "32",
+    "total_fat": "0.3g",
+    "saturated_fat": "0g",
+    "carbs": "5.5g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220216*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090289*2": {
+    "name": "Mixed Greens",
+    "serving_size": "2 OZ",
+    "calories": "30",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090289*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090346*6": {
+    "name": "Maryland Crab Soup",
+    "serving_size": null,
+    "calories": null,
+    "total_fat": null,
+    "saturated_fat": null,
+    "carbs": null,
+    "protein": null,
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090346*6"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090401*1": {
+    "name": "Raisins",
+    "serving_size": "1 oz",
+    "calories": "85",
+    "total_fat": "0.2g",
+    "saturated_fat": "0g",
+    "carbs": "22.7g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090401*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090397*1": {
+    "name": "Oyster Crackers",
+    "serving_size": "1 oz",
+    "calories": "4",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "0.7g",
+    "protein": "0.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090397*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903369*1": {
+    "name": "Olive Oil",
+    "serving_size": "1 oz",
+    "calories": "251",
+    "total_fat": "28.3g",
+    "saturated_fat": "3.9g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903369*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090290*1": {
+    "name": "Red Beans",
+    "serving_size": "1 OZ",
+    "calories": "50",
+    "total_fat": "0.3g",
+    "saturated_fat": "0g",
+    "carbs": "8g",
+    "protein": "3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090290*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090399*1": {
+    "name": "Plain Tuna",
+    "serving_size": "1 oz",
+    "calories": "24",
+    "total_fat": "0.4g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "5.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090399*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090259*1": {
+    "name": "Peas",
+    "serving_size": "1 oz",
+    "calories": "22",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "3.8g",
+    "protein": "1.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090259*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090256*1": {
+    "name": "Red Pepper",
+    "serving_size": "1 oz",
+    "calories": "8",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "1.9g",
+    "protein": "0.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090256*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903371*1": {
+    "name": "Red Wine Vinegar",
+    "serving_size": "1 oz",
+    "calories": "0",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903371*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090253*1": {
+    "name": "Shredded Carrots",
+    "serving_size": "1 oz",
+    "calories": "12",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "2.7g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090253*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090250*1": {
+    "name": "Sliced Black Olives",
+    "serving_size": "1 oz",
+    "calories": "26",
+    "total_fat": "2.8g",
+    "saturated_fat": "0g",
+    "carbs": "2.8g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090250*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220217*4": {
+    "name": "Yogurt Apple Orange Smoothie",
+    "serving_size": "4 oz",
+    "calories": "65",
+    "total_fat": "0.2g",
+    "saturated_fat": "0.1g",
+    "carbs": "11.9g",
+    "protein": "4.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220217*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080444*1": {
+    "name": "Brick Oven Roasted Italian spiced Chicken Legs",
+    "serving_size": "1 EA",
+    "calories": "195",
+    "total_fat": "9g",
+    "saturated_fat": "2.4g",
+    "carbs": "17.6g",
+    "protein": "11.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080444*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090345*6": {
+    "name": "Vegan Southwestern 3 Bean Soup",
+    "serving_size": "6 oz",
+    "calories": "143",
+    "total_fat": "0.5g",
+    "saturated_fat": "0.1g",
+    "carbs": "26.6g",
+    "protein": "8.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090345*6"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=171110*1": {
+    "name": "Artichoke Asparagus Fire Roasted Tomato Pizza",
+    "serving_size": "1 slice",
+    "calories": "1077",
+    "total_fat": "53.7g",
+    "saturated_fat": "28.5g",
+    "carbs": "90.3g",
+    "protein": "81.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=171110*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=020151*6": {
+    "name": "Tomato Basil Soup",
+    "serving_size": "6 oz",
+    "calories": "235",
+    "total_fat": "9.2g",
+    "saturated_fat": "0g",
+    "carbs": "32.1g",
+    "protein": "7.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=020151*6"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090284*1": {
+    "name": "Thousand Island Dressing",
+    "serving_size": "1 oz",
+    "calories": "140",
+    "total_fat": "13g",
+    "saturated_fat": "2g",
+    "carbs": "4g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090284*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117099*1": {
+    "name": "Cheese Pizza",
+    "serving_size": "1 slice",
+    "calories": "167",
+    "total_fat": "10g",
+    "saturated_fat": "5.3g",
+    "carbs": "9.4g",
+    "protein": "13.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117099*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117094*1": {
+    "name": "Caprese Pizza",
+    "serving_size": "1 slice",
+    "calories": "93",
+    "total_fat": "4.7g",
+    "saturated_fat": "1.9g",
+    "carbs": "8.8g",
+    "protein": "5.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117094*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090446*2": {
+    "name": "Greek Roasted Swai & Peppers Tomatoes Potatoes",
+    "serving_size": "2 oz",
+    "calories": "45",
+    "total_fat": "1.9g",
+    "saturated_fat": "0.3g",
+    "carbs": "2.7g",
+    "protein": "3.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090446*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117119*1": {
+    "name": "Crispy Pan Buffalo Chicken Pizza",
+    "serving_size": "1 slice",
+    "calories": "258",
+    "total_fat": "13.7g",
+    "saturated_fat": "5.6g",
+    "carbs": "21.7g",
+    "protein": "18.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117119*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117100*1": {
+    "name": "Pepperoni Pizza",
+    "serving_size": "1 slice",
+    "calories": "142",
+    "total_fat": "8.7g",
+    "saturated_fat": "4.5g",
+    "carbs": "8.2g",
+    "protein": "10.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117100*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117109*1": {
+    "name": "Meat Lovers Pizza",
+    "serving_size": "1 slice",
+    "calories": "268",
+    "total_fat": "15.1g",
+    "saturated_fat": "6.3g",
+    "carbs": "19.7g",
+    "protein": "17g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117109*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=171117*1": {
+    "name": "White Sicilian Pizza",
+    "serving_size": "1 slice",
+    "calories": "185",
+    "total_fat": "9.5g",
+    "saturated_fat": "5.3g",
+    "carbs": "15.4g",
+    "protein": "11.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=171117*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151159*3": {
+    "name": "Brick Oven Roasted Balsamic Glaze Mozzarella Roma Tomato",
+    "serving_size": "3 oz",
+    "calories": "26",
+    "total_fat": "0.8g",
+    "saturated_fat": "0.4g",
+    "carbs": "3.5g",
+    "protein": "1.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151159*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119405*1": {
+    "name": "Cheddar Garlic Cheesy Bread",
+    "serving_size": "1 each",
+    "calories": "100",
+    "total_fat": "6.3g",
+    "saturated_fat": "3.1g",
+    "carbs": "5.7g",
+    "protein": "4.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119405*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151154*3": {
+    "name": "Balsamic Roasted Mushrooms & Spinach",
+    "serving_size": "3 oz",
+    "calories": "28",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0.3g",
+    "protein": "4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151154*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119402*1": {
+    "name": "Fresh Grilled Garlic Bread",
+    "serving_size": "1 each",
+    "calories": "71",
+    "total_fat": "2.9g",
+    "saturated_fat": "0.9g",
+    "carbs": "9.1g",
+    "protein": "1.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119402*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151141*4": {
+    "name": "Citrus Ginger Roasted Beets and Carrots",
+    "serving_size": "4 OZ",
+    "calories": "50",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "10.9g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151141*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220178*4": {
+    "name": "Mixed Fruit with Mint",
+    "serving_size": "4 oz",
+    "calories": "59",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "15.3g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220178*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151200*2": {
+    "name": "Kale Caesar Salad",
+    "serving_size": "2 oz",
+    "calories": "77",
+    "total_fat": "5.5g",
+    "saturated_fat": "0.8g",
+    "carbs": "6.4g",
+    "protein": "2.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151200*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141134*3": {
+    "name": "Roasted Parmesan Yukon Gold Potatoes",
+    "serving_size": "3 oz",
+    "calories": "91",
+    "total_fat": "1.8g",
+    "saturated_fat": "0.9g",
+    "carbs": "14.7g",
+    "protein": "3.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141134*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151202*4": {
+    "name": "Tomato Fresh Mozzarella Salad",
+    "serving_size": "4 oz",
+    "calories": "116",
+    "total_fat": "8.3g",
+    "saturated_fat": "3.1g",
+    "carbs": "4.4g",
+    "protein": "6.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151202*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=050181*4": {
+    "name": "Asian Beef Mongolian Grill",
+    "serving_size": "4 oz",
+    "calories": "243",
+    "total_fat": "15.9g",
+    "saturated_fat": "6.8g",
+    "carbs": "0g",
+    "protein": "22.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=050181*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150920*4": {
+    "name": "Asian Glazed Brussels Sprouts",
+    "serving_size": "4 oz",
+    "calories": "92",
+    "total_fat": "3.2g",
+    "saturated_fat": "0.3g",
+    "carbs": "13.9g",
+    "protein": "3.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150920*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080286*4": {
+    "name": "Asian Chicken Mongolian Grill",
+    "serving_size": "4 oz",
+    "calories": "125",
+    "total_fat": "1.4g",
+    "saturated_fat": "0.4g",
+    "carbs": "0g",
+    "protein": "26.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080286*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=161154*1": {
+    "name": "Bamboo Shoots",
+    "serving_size": "1 oz",
+    "calories": "8",
+    "total_fat": "0.1g",
+    "saturated_fat": null,
+    "carbs": "1.5g",
+    "protein": "0.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=161154*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090296*1": {
+    "name": "Bean Sprouts",
+    "serving_size": "1 oz",
+    "calories": "2",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0.3g",
+    "protein": "0.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090296*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151206*1": {
+    "name": "Bok Choy",
+    "serving_size": "1 oz",
+    "calories": "3",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0.5g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151206*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145127*3": {
+    "name": "Brown Rice",
+    "serving_size": "3 oz",
+    "calories": "113",
+    "total_fat": "0.8g",
+    "saturated_fat": "0g",
+    "carbs": "23.9g",
+    "protein": "2.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145127*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151207*1": {
+    "name": "Brussels Sprouts",
+    "serving_size": "1 oz",
+    "calories": "12",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "2.5g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151207*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903347*1": {
+    "name": "Chopped Garlic",
+    "serving_size": "1 oz",
+    "calories": "42",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "9.4g",
+    "protein": "1.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903347*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903348*1": {
+    "name": "Chopped Ginger",
+    "serving_size": "1 oz",
+    "calories": "98",
+    "total_fat": "1.7g",
+    "saturated_fat": "0.6g",
+    "carbs": "20.1g",
+    "protein": "2.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903348*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090288*1": {
+    "name": "Edamame",
+    "serving_size": "1 oz",
+    "calories": "40",
+    "total_fat": "2g",
+    "saturated_fat": "0.2g",
+    "carbs": "3g",
+    "protein": "3.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090288*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903382*4": {
+    "name": "Japanese Egg Salad",
+    "serving_size": "4 oz",
+    "calories": "78",
+    "total_fat": "6.6g",
+    "saturated_fat": "1.3g",
+    "carbs": "1.7g",
+    "protein": "3.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903382*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080183*3": {
+    "name": "Kung Pao Chicken",
+    "serving_size": "3 oz",
+    "calories": "83",
+    "total_fat": "1.2g",
+    "saturated_fat": "0.3g",
+    "carbs": "4.8g",
+    "protein": "13.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080183*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903351*1": {
+    "name": "Green Beans",
+    "serving_size": "1 oz",
+    "calories": "7",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "1.8g",
+    "protein": "0.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903351*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151205*1": {
+    "name": "Julienne Zucchini",
+    "serving_size": "1 oz",
+    "calories": "9",
+    "total_fat": "0.1g",
+    "saturated_fat": null,
+    "carbs": "1.8g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151205*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135260*1": {
+    "name": "Garlic Chili Sauce",
+    "serving_size": "1 oz",
+    "calories": "0",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135260*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220156*1": {
+    "name": "General Tso's Sauce",
+    "serving_size": "1 oz",
+    "calories": "56",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "12.8g",
+    "protein": "0.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220156*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151204*1": {
+    "name": "Julienne Yellow Squash",
+    "serving_size": "1 oz",
+    "calories": "9",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "1.9g",
+    "protein": "0.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151204*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220155*1": {
+    "name": "Orange Sauce",
+    "serving_size": "1 oz",
+    "calories": "91",
+    "total_fat": "7g",
+    "saturated_fat": "0.9g",
+    "carbs": "10.8g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220155*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115188*3": {
+    "name": "Cooked Lo Mein",
+    "serving_size": "3 OZ",
+    "calories": "94",
+    "total_fat": "1g",
+    "saturated_fat": "0.2g",
+    "carbs": "17.8g",
+    "protein": "3.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115188*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060179*4": {
+    "name": "Pork and Kimchi Fried Rice",
+    "serving_size": "4 oz",
+    "calories": "172",
+    "total_fat": "8.2g",
+    "saturated_fat": "2.7g",
+    "carbs": "17.1g",
+    "protein": "6.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060179*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115267*6": {
+    "name": "Shanghai Soy Scallion Noodles",
+    "serving_size": "6 oz",
+    "calories": "398",
+    "total_fat": "9g",
+    "saturated_fat": "1.2g",
+    "carbs": "66.5g",
+    "protein": "13.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115267*6"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903349*1": {
+    "name": "Shredded Cabbage",
+    "serving_size": "1 oz",
+    "calories": "7",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "1.6g",
+    "protein": "0.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903349*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150932*4": {
+    "name": "Szechuan Green Beans",
+    "serving_size": "4 oz",
+    "calories": "82",
+    "total_fat": "2.2g",
+    "saturated_fat": "0.3g",
+    "carbs": "15.1g",
+    "protein": "2.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150932*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220165*1": {
+    "name": "Sweet Sour Sauce (RTU)",
+    "serving_size": "1 oz",
+    "calories": "71",
+    "total_fat": "0.9g",
+    "saturated_fat": "0g",
+    "carbs": "14.2g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220165*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090268*2": {
+    "name": "TOFU",
+    "serving_size": "2 OZ",
+    "calories": "81",
+    "total_fat": "4.9g",
+    "saturated_fat": "0.6g",
+    "carbs": "1.9g",
+    "protein": "9.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090268*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=161121*3": {
+    "name": "Tahu Goreng Bumbu Bali balinese Fried Tofu",
+    "serving_size": "3 OZ",
+    "calories": "28",
+    "total_fat": "1.7g",
+    "saturated_fat": "0.2g",
+    "carbs": "0.7g",
+    "protein": "3.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=161121*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220157*1": {
+    "name": "Teriyaki Sauce",
+    "serving_size": "1 oz",
+    "calories": "39",
+    "total_fat": "0.9g",
+    "saturated_fat": "0g",
+    "carbs": "6.9g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220157*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090534*4": {
+    "name": "Thai Mango Salad yum mamuang",
+    "serving_size": "4 oz",
+    "calories": "51",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "11.9g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090534*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090536*4": {
+    "name": "Thai Glass Noodle salad Yum Woon Sen",
+    "serving_size": "4 oz",
+    "calories": "96",
+    "total_fat": "0.2g",
+    "saturated_fat": "0g",
+    "carbs": "20.7g",
+    "protein": "3.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090536*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126848*1": {
+    "name": "Basil Pesto Chicken Quesadilla",
+    "serving_size": "1 each",
+    "calories": "829",
+    "total_fat": "45.5g",
+    "saturated_fat": "21.8g",
+    "carbs": "52.9g",
+    "protein": "54.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126848*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090535*4": {
+    "name": "Tofu and Edamame Salad",
+    "serving_size": "4 oz",
+    "calories": "161",
+    "total_fat": "4.2g",
+    "saturated_fat": "0.4g",
+    "carbs": "24.5g",
+    "protein": "8.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090535*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126386*1": {
+    "name": "Cheese Quesadilla",
+    "serving_size": "1 each",
+    "calories": "667",
+    "total_fat": "37.6g",
+    "saturated_fat": "22.2g",
+    "carbs": "55.5g",
+    "protein": "30.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126386*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135233*4": {
+    "name": "Chili Con Queso",
+    "serving_size": "4 oz",
+    "calories": "24",
+    "total_fat": "1.5g",
+    "saturated_fat": "0.4g",
+    "carbs": "2.2g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135233*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090529*4": {
+    "name": "Mexican Corn salad recipe",
+    "serving_size": "4 oz",
+    "calories": "222",
+    "total_fat": "14.8g",
+    "saturated_fat": "6.4g",
+    "carbs": "20.3g",
+    "protein": "7.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090529*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090272*1": {
+    "name": "Salsa",
+    "serving_size": "1 oz",
+    "calories": "19",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "5.6g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090272*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135114*1": {
+    "name": "Roasted Garlic Basil Marinara Sauce",
+    "serving_size": "1 oz",
+    "calories": "16",
+    "total_fat": "0.7g",
+    "saturated_fat": "0g",
+    "carbs": "1.8g",
+    "protein": "0.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135114*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117116*1": {
+    "name": "Pan Cheese Pizza",
+    "serving_size": "1 slice",
+    "calories": "172",
+    "total_fat": "9.4g",
+    "saturated_fat": "4.4g",
+    "carbs": "13.4g",
+    "protein": "12.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117116*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220169*1": {
+    "name": "Stir Fry Sauce (RTU)",
+    "serving_size": "1 oz",
+    "calories": "32",
+    "total_fat": "1.4g",
+    "saturated_fat": "0g",
+    "carbs": "3.7g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220169*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220136*1": {
+    "name": "Earth Balance Soy Free Spread",
+    "serving_size": "1 oz",
+    "calories": "203",
+    "total_fat": "22.3g",
+    "saturated_fat": "5.1g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220136*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119387*1": {
+    "name": "Potato Hot Dog Roll",
+    "serving_size": "1 each",
+    "calories": "140",
+    "total_fat": "1.5g",
+    "saturated_fat": "0g",
+    "carbs": "27g",
+    "protein": "4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119387*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117115*1": {
+    "name": "Pan Pepperoni Pizza",
+    "serving_size": "1 slice",
+    "calories": "303",
+    "total_fat": "18.3g",
+    "saturated_fat": "8.5g",
+    "carbs": "20g",
+    "protein": "19.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117115*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220079*1": {
+    "name": "Mayonnaise",
+    "serving_size": "1 oz",
+    "calories": "76",
+    "total_fat": "7.6g",
+    "saturated_fat": "0.9g",
+    "carbs": "1.9g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220079*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090332*1": {
+    "name": "Strawberry Cream Cheese",
+    "serving_size": "1 oz",
+    "calories": "100",
+    "total_fat": "7.3g",
+    "saturated_fat": "4.9g",
+    "carbs": "4.9g",
+    "protein": "7.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090332*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150874*3": {
+    "name": "Italian Roasted Brussel Sprouts",
+    "serving_size": "3 oz",
+    "calories": "49",
+    "total_fat": "1.4g",
+    "saturated_fat": "0.2g",
+    "carbs": "8.1g",
+    "protein": "3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150874*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019371*1": {
+    "name": "Wheat Tortilla 12\"",
+    "serving_size": "1 each",
+    "calories": "279",
+    "total_fat": "6.7g",
+    "saturated_fat": "3.4g",
+    "carbs": "48.1g",
+    "protein": "8.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019371*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141110*3": {
+    "name": "Chef's Fresh Mashed Potatoes",
+    "serving_size": "3 oz",
+    "calories": "207",
+    "total_fat": "4.2g",
+    "saturated_fat": "2.7g",
+    "carbs": "36.4g",
+    "protein": "4.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141110*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220106*1": {
+    "name": "Balsamic Glaze",
+    "serving_size": "1 oz",
+    "calories": "57",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "13.2g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220106*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141112*3": {
+    "name": "Jerk Spice Roasted Yukon Gold Potatoes",
+    "serving_size": "3 oz",
+    "calories": "77",
+    "total_fat": "0.9g",
+    "saturated_fat": "0.1g",
+    "carbs": "14.9g",
+    "protein": "1.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141112*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151289*1": {
+    "name": "Blistered Shishito Pepperes",
+    "serving_size": "1 oz",
+    "calories": "24",
+    "total_fat": "1.8g",
+    "saturated_fat": "0.1g",
+    "carbs": "1.4g",
+    "protein": "0.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151289*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100324*1": {
+    "name": "Black Bean Chipotle Burger",
+    "serving_size": "1 each",
+    "calories": "198",
+    "total_fat": "7.2g",
+    "saturated_fat": "0.9g",
+    "carbs": "24.2g",
+    "protein": "10.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100324*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119379*1": {
+    "name": "M&M Candy Cookie",
+    "serving_size": "1 each",
+    "calories": "195",
+    "total_fat": "9g",
+    "saturated_fat": "3g",
+    "carbs": "27g",
+    "protein": "1.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119379*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151311*3": {
+    "name": "Spiced Squash & Zucchini",
+    "serving_size": "3 oz",
+    "calories": "23",
+    "total_fat": "0.9g",
+    "saturated_fat": "0.1g",
+    "carbs": "3.7g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151311*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220104*1": {
+    "name": "Tomato Wedges",
+    "serving_size": "1 each",
+    "calories": "0",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220104*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090405*1": {
+    "name": "Chow Mein Noodles",
+    "serving_size": "1 oz",
+    "calories": "132",
+    "total_fat": "6.1g",
+    "saturated_fat": "0.5g",
+    "carbs": "18.2g",
+    "protein": "3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090405*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100212*1": {
+    "name": "Vegan Chocolate Chip Pancake (purple)",
+    "serving_size": "1 each",
+    "calories": "146",
+    "total_fat": "3g",
+    "saturated_fat": "1.5g",
+    "carbs": "27.1g",
+    "protein": "3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100212*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090333*1": {
+    "name": "Cream Cheese Onion and Chive",
+    "serving_size": "1 oz",
+    "calories": "92",
+    "total_fat": "8.1g",
+    "saturated_fat": "5.4g",
+    "carbs": "1.4g",
+    "protein": "8.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090333*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115250*4": {
+    "name": "Pad Thai Noodle Mongolian Grill",
+    "serving_size": "4 oz",
+    "calories": "405",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "93.2g",
+    "protein": "6.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115250*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150317*1": {
+    "name": "Grilled Onions",
+    "serving_size": "1 oz",
+    "calories": "13",
+    "total_fat": "0.3g",
+    "saturated_fat": "0g",
+    "carbs": "2.4g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150317*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090264*2": {
+    "name": "Yogurt",
+    "serving_size": "2 oz",
+    "calories": "52",
+    "total_fat": "0.5g",
+    "saturated_fat": "0.4g",
+    "carbs": "9.8g",
+    "protein": "2.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090264*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090105*4": {
+    "name": "Baked Pesto Cod",
+    "serving_size": "4 oz",
+    "calories": "107",
+    "total_fat": "2.6g",
+    "saturated_fat": "0.4g",
+    "carbs": "0.2g",
+    "protein": "19.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090105*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=233005*8": {
+    "name": "Skim Milk",
+    "serving_size": "8 oz",
+    "calories": "76",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "11.3g",
+    "protein": "7.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=233005*8"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090283*1": {
+    "name": "Italian Creamy",
+    "serving_size": "1 oz",
+    "calories": "110",
+    "total_fat": "10g",
+    "saturated_fat": "1.5g",
+    "carbs": "6g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090283*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100317*1": {
+    "name": "Vegan Sliced Provolone Cheese",
+    "serving_size": "1 slice",
+    "calories": "60",
+    "total_fat": "4.5g",
+    "saturated_fat": "4g",
+    "carbs": "4g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100317*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220127*1": {
+    "name": "Pancake Syrup",
+    "serving_size": "1 each",
+    "calories": "0",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "30.6g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220127*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220085*1": {
+    "name": "Cheddar Cheese Sliced",
+    "serving_size": "1 each",
+    "calories": "54",
+    "total_fat": "4.7g",
+    "saturated_fat": "2.7g",
+    "carbs": "0g",
+    "protein": "3.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220085*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=529004*2": {
+    "name": "Jalapenos",
+    "serving_size": "2 oz",
+    "calories": "0",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0.1g",
+    "protein": "0.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=529004*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100319*1": {
+    "name": "Vegan Shredded Cheddar Cheese",
+    "serving_size": "1 oz",
+    "calories": "81",
+    "total_fat": "6.1g",
+    "saturated_fat": "3.5g",
+    "carbs": "6.1g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100319*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151291*1": {
+    "name": "Crispy Scallions",
+    "serving_size": "1 oz",
+    "calories": "9",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "2.1g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151291*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903346*1": {
+    "name": "Water Chestnuts",
+    "serving_size": "1 OZ",
+    "calories": "9",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "2.2g",
+    "protein": "0.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903346*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100932*3": {
+    "name": "General Tso's Tempura Cauliflower",
+    "serving_size": "3 oz",
+    "calories": "99",
+    "total_fat": "0.2g",
+    "saturated_fat": "0.1g",
+    "carbs": "22.8g",
+    "protein": "2.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100932*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220056*1": {
+    "name": "Celery Sticks",
+    "serving_size": "1 oz",
+    "calories": "4",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220056*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100915*4": {
+    "name": "Vegan Mushroom Chili Mac",
+    "serving_size": "4 oz",
+    "calories": "111",
+    "total_fat": "4.8g",
+    "saturated_fat": "1.3g",
+    "carbs": "13.8g",
+    "protein": "4.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100915*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=050164*3": {
+    "name": "Meatball no sauce",
+    "serving_size": "3 each",
+    "calories": "262",
+    "total_fat": "19.1g",
+    "saturated_fat": "6g",
+    "carbs": "8g",
+    "protein": "18.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=050164*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220110*1": {
+    "name": "Spicy Brown Mustard",
+    "serving_size": "1 oz",
+    "calories": "148",
+    "total_fat": "9.1g",
+    "saturated_fat": "0.5g",
+    "carbs": "11g",
+    "protein": "7.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220110*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019375*2": {
+    "name": "Deli Wheat Bread Sliced",
+    "serving_size": "2 slices",
+    "calories": "232",
+    "total_fat": "3.5g",
+    "saturated_fat": "0g",
+    "carbs": "41.7g",
+    "protein": "9.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019375*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220126*1": {
+    "name": "Dijon Mustard",
+    "serving_size": "1 oz",
+    "calories": "30",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220126*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090117*4": {
+    "name": "Grilled Moroccan Wild Blue Catfish",
+    "serving_size": "4 oz",
+    "calories": "154",
+    "total_fat": "7.7g",
+    "saturated_fat": "0.2g",
+    "carbs": "2.4g",
+    "protein": "21.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090117*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220108*1": {
+    "name": "Pickle Slice",
+    "serving_size": "1 oz",
+    "calories": "9",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220108*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090314*2": {
+    "name": "Blackberries",
+    "serving_size": "2 oz",
+    "calories": "24",
+    "total_fat": "0.3g",
+    "saturated_fat": "0g",
+    "carbs": "5.5g",
+    "protein": "0.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090314*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220058*1": {
+    "name": "Chipotle Hummus",
+    "serving_size": "1 oz",
+    "calories": "74",
+    "total_fat": "6.2g",
+    "saturated_fat": "0g",
+    "carbs": "4.5g",
+    "protein": "1.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220058*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090173*4": {
+    "name": "Asian Shrimp Mongolian Grill",
+    "serving_size": "4 oz",
+    "calories": "83",
+    "total_fat": "0.9g",
+    "saturated_fat": "0.2g",
+    "carbs": "0g",
+    "protein": "17.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090173*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019366*2": {
+    "name": "Rye Bread",
+    "serving_size": "2 slices",
+    "calories": "235",
+    "total_fat": "3g",
+    "saturated_fat": "0.6g",
+    "carbs": "43.8g",
+    "protein": "7.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019366*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220139*1": {
+    "name": "Vegan Soy Free Mayonnaise (purple)",
+    "serving_size": "1 oz",
+    "calories": "324",
+    "total_fat": "36.5g",
+    "saturated_fat": "2g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220139*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115200*4": {
+    "name": "Whole Wheat Pasta (Cooked)",
+    "serving_size": "4 oz",
+    "calories": "293",
+    "total_fat": "5.6g",
+    "saturated_fat": "0.3g",
+    "carbs": "56.9g",
+    "protein": "11.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115200*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145177*3": {
+    "name": "Coconut Cilantro Lime Rice",
+    "serving_size": "3 oz",
+    "calories": "130",
+    "total_fat": "1.1g",
+    "saturated_fat": "1g",
+    "carbs": "25.9g",
+    "protein": "2.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145177*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135157*2": {
+    "name": "Pesto Sauce",
+    "serving_size": "2 oz",
+    "calories": "199",
+    "total_fat": "21.3g",
+    "saturated_fat": "2.1g",
+    "carbs": "0.7g",
+    "protein": "1.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135157*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150304*3": {
+    "name": "Collard Green with Smoked Turkey",
+    "serving_size": "3 oz",
+    "calories": "50",
+    "total_fat": "0.2g",
+    "saturated_fat": "0g",
+    "carbs": "7.7g",
+    "protein": "5.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150304*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135205*1": {
+    "name": "Chimichuri Sauce (purple)",
+    "serving_size": "1 oz",
+    "calories": "128",
+    "total_fat": "13.2g",
+    "saturated_fat": "1g",
+    "carbs": "3g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135205*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=101032*1": {
+    "name": "Vegan American Cheese",
+    "serving_size": "1 oz",
+    "calories": "60",
+    "total_fat": "4.5g",
+    "saturated_fat": "4g",
+    "carbs": "4g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=101032*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090404*1": {
+    "name": "Sunflower Seeds",
+    "serving_size": "1 oz",
+    "calories": "172",
+    "total_fat": "14.2g",
+    "saturated_fat": "0g",
+    "carbs": "7.1g",
+    "protein": "5.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090404*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090277*1": {
+    "name": "Parmesan Peppercorn Dressing",
+    "serving_size": "1 oz",
+    "calories": "160",
+    "total_fat": "16g",
+    "saturated_fat": "3g",
+    "carbs": "2g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090277*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090219*1": {
+    "name": "Apple",
+    "serving_size": "1 each",
+    "calories": "74",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "19.4g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090219*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019406*1": {
+    "name": "Cubed Bread",
+    "serving_size": "1 oz",
+    "calories": "71",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "15.2g",
+    "protein": "2.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019406*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220140*1": {
+    "name": "Vegan Parmesan Cheese (purple)",
+    "serving_size": "1 oz",
+    "calories": "101",
+    "total_fat": "7.1g",
+    "saturated_fat": "3.5g",
+    "carbs": "8.1g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220140*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145215*4": {
+    "name": "Peruvian Arrocito",
+    "serving_size": "4 oz",
+    "calories": "348",
+    "total_fat": "4.9g",
+    "saturated_fat": "0.2g",
+    "carbs": "66.9g",
+    "protein": "8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145215*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151063*3": {
+    "name": "Mexican Street Corn",
+    "serving_size": "3 oz",
+    "calories": "153",
+    "total_fat": "10.6g",
+    "saturated_fat": "1.1g",
+    "carbs": "14.4g",
+    "protein": "2.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151063*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145130*3": {
+    "name": "Saffron Basmati Rice",
+    "serving_size": "3 oz",
+    "calories": "101",
+    "total_fat": "0.5g",
+    "saturated_fat": "0g",
+    "carbs": "21.9g",
+    "protein": "2.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145130*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141136*3": {
+    "name": "Rosemary Parmesan Mashed Potatoes",
+    "serving_size": "3 oz",
+    "calories": "225",
+    "total_fat": "5.5g",
+    "saturated_fat": "3.4g",
+    "carbs": "36.5g",
+    "protein": "6.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141136*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220083*1": {
+    "name": "Swiss Cheese Sliced",
+    "serving_size": "1 each",
+    "calories": "51",
+    "total_fat": "4.1g",
+    "saturated_fat": "2.5g",
+    "carbs": "0.5g",
+    "protein": "4.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220083*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150319*1": {
+    "name": "Grilled Mushrooms",
+    "serving_size": "1 oz",
+    "calories": "16",
+    "total_fat": "0.3g",
+    "saturated_fat": "0g",
+    "carbs": "2g",
+    "protein": "2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150319*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090220*1": {
+    "name": "Orange",
+    "serving_size": "1 each",
+    "calories": "104",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "24.7g",
+    "protein": "1.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090220*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019362*3": {
+    "name": "Cornbread Stuffing",
+    "serving_size": "3 oz",
+    "calories": "70",
+    "total_fat": "6.5g",
+    "saturated_fat": "2.9g",
+    "carbs": "2.5g",
+    "protein": "0.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019362*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151015*3": {
+    "name": "Chinese Tomato Egg Stir Fry",
+    "serving_size": "3 oz",
+    "calories": "150",
+    "total_fat": "12.3g",
+    "saturated_fat": "1.8g",
+    "carbs": "4g",
+    "protein": "5.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151015*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=233004*8": {
+    "name": "Milk 2%",
+    "serving_size": "8 oz",
+    "calories": "113",
+    "total_fat": "4.5g",
+    "saturated_fat": "2.9g",
+    "carbs": "10.6g",
+    "protein": "7.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=233004*8"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126713*1": {
+    "name": "Cheese Sausage Breakfast Bagel Sandwich",
+    "serving_size": "1 each",
+    "calories": "1105",
+    "total_fat": "54.1g",
+    "saturated_fat": "18.4g",
+    "carbs": "135.8g",
+    "protein": "24.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126713*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151290*3": {
+    "name": "Steamed Edamame Pods",
+    "serving_size": "3 oz",
+    "calories": "6",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "1.8g",
+    "protein": "0.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151290*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=233007*8": {
+    "name": "Chocolate Pea Milk",
+    "serving_size": "8 oz",
+    "calories": "132",
+    "total_fat": "4.7g",
+    "saturated_fat": "0.5g",
+    "carbs": "14.2g",
+    "protein": "7.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=233007*8"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090287*1": {
+    "name": "French Dressing",
+    "serving_size": "1 oz",
+    "calories": "120",
+    "total_fat": "11g",
+    "saturated_fat": "1.5g",
+    "carbs": "5g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090287*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019364*2": {
+    "name": "Sourdough Bread",
+    "serving_size": "2 slices",
+    "calories": "227",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "48.6g",
+    "protein": "8.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019364*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151082*3": {
+    "name": "Borracho Beans Frijoles Borrachos",
+    "serving_size": "3 OZ",
+    "calories": "81",
+    "total_fat": "3g",
+    "saturated_fat": "1g",
+    "carbs": "9.3g",
+    "protein": "4.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151082*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151083*3": {
+    "name": "Brazilian Black Beans",
+    "serving_size": "3 OZ",
+    "calories": "141",
+    "total_fat": "9.1g",
+    "saturated_fat": "2.7g",
+    "carbs": "7.7g",
+    "protein": "8.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151083*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220112*1": {
+    "name": "BBQ Sauce",
+    "serving_size": "1 oz",
+    "calories": "56",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "14g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220112*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220053*3": {
+    "name": "Guacamole",
+    "serving_size": "3 oz",
+    "calories": "71",
+    "total_fat": "7.1g",
+    "saturated_fat": "1.4g",
+    "carbs": "4.3g",
+    "protein": "1.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220053*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100984*4": {
+    "name": "Salt and Pepper Tofu",
+    "serving_size": "4 oz",
+    "calories": "283",
+    "total_fat": "22.4g",
+    "saturated_fat": "2.1g",
+    "carbs": "9.8g",
+    "protein": "14.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100984*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040060*4": {
+    "name": "Scrambled Eggs",
+    "serving_size": "4 oz",
+    "calories": "192",
+    "total_fat": "13.7g",
+    "saturated_fat": "3.6g",
+    "carbs": "1.2g",
+    "protein": "15g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040060*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220073*1": {
+    "name": "6\" Flour Tortilla",
+    "serving_size": "1 each",
+    "calories": "90",
+    "total_fat": "2g",
+    "saturated_fat": "1g",
+    "carbs": "15g",
+    "protein": "3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220073*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126301*1": {
+    "name": "Cheeseburger with American Cheese",
+    "serving_size": "1 each",
+    "calories": "283",
+    "total_fat": "22.8g",
+    "saturated_fat": "9.7g",
+    "carbs": "0.5g",
+    "protein": "18.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126301*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151370*3": {
+    "name": "Roasted Vegetable Medley",
+    "serving_size": "3 oz",
+    "calories": "36",
+    "total_fat": "1.3g",
+    "saturated_fat": "0.1g",
+    "carbs": "6.1g",
+    "protein": "1.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151370*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019374*2": {
+    "name": "Pullman White Bread Sliced",
+    "serving_size": "2 slices",
+    "calories": "213",
+    "total_fat": "2.1g",
+    "saturated_fat": "0g",
+    "carbs": "40.5g",
+    "protein": "6.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019374*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220074*1": {
+    "name": "Taco Shell",
+    "serving_size": "1 each",
+    "calories": "52",
+    "total_fat": "2.9g",
+    "saturated_fat": "1.3g",
+    "carbs": "6.1g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220074*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090403*1": {
+    "name": "Flax Seeds",
+    "serving_size": "1 oz",
+    "calories": "156",
+    "total_fat": "12.2g",
+    "saturated_fat": "1.1g",
+    "carbs": "8.5g",
+    "protein": "5.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090403*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150343*3": {
+    "name": "Roasted Carrots and Green Peppers",
+    "serving_size": "3 oz",
+    "calories": "33",
+    "total_fat": "0.7g",
+    "saturated_fat": "0.1g",
+    "carbs": "6.1g",
+    "protein": "0.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150343*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100929*1": {
+    "name": "Vegan Strawberry Cheesecake",
+    "serving_size": "1 each",
+    "calories": "179",
+    "total_fat": "11.6g",
+    "saturated_fat": "8.2g",
+    "carbs": "17.9g",
+    "protein": "1.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100929*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126315*1": {
+    "name": "Buffalo Chicken Quesadilla",
+    "serving_size": "1 each",
+    "calories": "453",
+    "total_fat": "17.5g",
+    "saturated_fat": "7.4g",
+    "carbs": "57.5g",
+    "protein": "20g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126315*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090432*3": {
+    "name": "Apple Filling",
+    "serving_size": "3 oz",
+    "calories": "80",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "20g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090432*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141142*1": {
+    "name": "Hash Browns Rounds",
+    "serving_size": "1 each",
+    "calories": "792",
+    "total_fat": "50.4g",
+    "saturated_fat": "3.6g",
+    "carbs": "108g",
+    "protein": "7.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141142*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102019*4": {
+    "name": "Dole Mango Sorbet Soft Serve",
+    "serving_size": "4 oz",
+    "calories": "41",
+    "total_fat": "1.4g",
+    "saturated_fat": "0g",
+    "carbs": "6.8g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102019*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090282*1": {
+    "name": "Sesame Oriental Dressing",
+    "serving_size": "1 oz",
+    "calories": "90",
+    "total_fat": "4.5g",
+    "saturated_fat": "0.5g",
+    "carbs": "12g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090282*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126380*3": {
+    "name": "Tuna Salad",
+    "serving_size": "3 oz",
+    "calories": "130",
+    "total_fat": "7.9g",
+    "saturated_fat": "0.9g",
+    "carbs": "2.3g",
+    "protein": "12.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126380*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060180*4": {
+    "name": "Grilled Smoked Polish Sausage",
+    "serving_size": "4 oz",
+    "calories": "263",
+    "total_fat": "21.3g",
+    "saturated_fat": "9.1g",
+    "carbs": "1g",
+    "protein": "16.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060180*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150311*3": {
+    "name": "Maple Roasted Sweet Potatoes",
+    "serving_size": "3 oz",
+    "calories": "121",
+    "total_fat": "0.4g",
+    "saturated_fat": "0.1g",
+    "carbs": "28.4g",
+    "protein": "1.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150311*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150371*3": {
+    "name": "Fried Plantains",
+    "serving_size": "3 oz",
+    "calories": "153",
+    "total_fat": "3g",
+    "saturated_fat": "0.4g",
+    "carbs": "28.9g",
+    "protein": "1.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150371*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090372*1": {
+    "name": "Pumpkin Seeds",
+    "serving_size": "1 oz",
+    "calories": "152",
+    "total_fat": "13.2g",
+    "saturated_fat": "2.5g",
+    "carbs": "3g",
+    "protein": "8.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090372*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220077*2": {
+    "name": "Potato Chips",
+    "serving_size": "2 oz",
+    "calories": "324",
+    "total_fat": "20.3g",
+    "saturated_fat": "3g",
+    "carbs": "30.4g",
+    "protein": "4.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220077*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150354*4": {
+    "name": "Italian Style Anasazi Beans",
+    "serving_size": "4 oz",
+    "calories": "124",
+    "total_fat": "1.5g",
+    "saturated_fat": "0.1g",
+    "carbs": "20.1g",
+    "protein": "7.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150354*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119388*1": {
+    "name": "Potato Hamburger Roll",
+    "serving_size": "1 each",
+    "calories": "123",
+    "total_fat": "1.9g",
+    "saturated_fat": "0g",
+    "carbs": "22.6g",
+    "protein": "3.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119388*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126364*1": {
+    "name": "Honey Roasted Sweet Potato PepperJack Wrap",
+    "serving_size": "1 ea",
+    "calories": "495",
+    "total_fat": "10.9g",
+    "saturated_fat": "3.5g",
+    "carbs": "86.2g",
+    "protein": "13.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126364*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102022*2": {
+    "name": "Warm Brownie",
+    "serving_size": "2 oz",
+    "calories": "236",
+    "total_fat": "6.6g",
+    "saturated_fat": "2.1g",
+    "carbs": "31.3g",
+    "protein": "2.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102022*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090276*1": {
+    "name": "Raspberry Vinaigrette Lite",
+    "serving_size": "1 oz",
+    "calories": "66",
+    "total_fat": "5.7g",
+    "saturated_fat": "0.9g",
+    "carbs": "3.8g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090276*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090373*1": {
+    "name": "Corn Nuts",
+    "serving_size": null,
+    "calories": null,
+    "total_fat": null,
+    "saturated_fat": null,
+    "carbs": null,
+    "protein": null,
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090373*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090226*2": {
+    "name": "Baba Ghanoush",
+    "serving_size": "2 oz",
+    "calories": "98",
+    "total_fat": "5.8g",
+    "saturated_fat": "0.4g",
+    "carbs": "9.5g",
+    "protein": "2.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090226*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151260*3": {
+    "name": "Chipotle Jicama Fries",
+    "serving_size": "3 oz",
+    "calories": "105",
+    "total_fat": "8.2g",
+    "saturated_fat": "0.5g",
+    "carbs": "7.8g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151260*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150914*4": {
+    "name": "Leek Hash with Polenta and Feta Chese",
+    "serving_size": "4 oz",
+    "calories": "83",
+    "total_fat": "2.5g",
+    "saturated_fat": "1g",
+    "carbs": "11.9g",
+    "protein": "3.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150914*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151157*3": {
+    "name": "Brick Oven Roasted Garlic Thyme Roma Tomato",
+    "serving_size": "3 OZ",
+    "calories": "21",
+    "total_fat": "0.2g",
+    "saturated_fat": "0.1g",
+    "carbs": "6.2g",
+    "protein": "1.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151157*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019368*1": {
+    "name": "Plain Tortilla 12\"",
+    "serving_size": "1 each",
+    "calories": "313",
+    "total_fat": "8.1g",
+    "saturated_fat": "2.5g",
+    "carbs": "52.5g",
+    "protein": "9.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019368*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220154*2": {
+    "name": "Fresh Mozzarella",
+    "serving_size": "2 oz",
+    "calories": "183",
+    "total_fat": "12.1g",
+    "saturated_fat": "7.7g",
+    "carbs": "2.3g",
+    "protein": "15.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220154*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117083*1": {
+    "name": "Parmesan Garlic Bread",
+    "serving_size": "1 each",
+    "calories": "174",
+    "total_fat": "8.7g",
+    "saturated_fat": "5.1g",
+    "carbs": "21.3g",
+    "protein": "4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117083*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100312*3": {
+    "name": "Tofu",
+    "serving_size": "3 oz",
+    "calories": "122",
+    "total_fat": "7.3g",
+    "saturated_fat": "0.9g",
+    "carbs": "2.8g",
+    "protein": "14g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100312*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220080*1": {
+    "name": "Yellow Mustard",
+    "serving_size": "1 oz",
+    "calories": "28",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220080*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126316*1": {
+    "name": "Grilled Onion Green Pepper Quesadilla",
+    "serving_size": "1 each",
+    "calories": "709",
+    "total_fat": "38.5g",
+    "saturated_fat": "23.8g",
+    "carbs": "60.9g",
+    "protein": "31.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126316*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102020*4": {
+    "name": "Dole Pinapple Sorbet Soft Serve",
+    "serving_size": "4 oz",
+    "calories": "27",
+    "total_fat": "0.1g",
+    "saturated_fat": "0.1g",
+    "carbs": "6.3g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102020*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060063*1": {
+    "name": "Pork Sausage Link",
+    "serving_size": "1 ea",
+    "calories": "189",
+    "total_fat": "16.9g",
+    "saturated_fat": "4.5g",
+    "carbs": "2g",
+    "protein": "8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060063*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220102*1": {
+    "name": "Vegan Mayonnaise",
+    "serving_size": "1 oz",
+    "calories": "101",
+    "total_fat": "12.2g",
+    "saturated_fat": "0g",
+    "carbs": "2g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220102*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119375*1": {
+    "name": "Cinnamon Scone",
+    "serving_size": "1 each",
+    "calories": "432",
+    "total_fat": "22.1g",
+    "saturated_fat": "15.1g",
+    "carbs": "50.2g",
+    "protein": "8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119375*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145235*3": {
+    "name": "Arroz Amarillo (Spanish Yellow Rice)",
+    "serving_size": "3 oz",
+    "calories": "269",
+    "total_fat": "0.2g",
+    "saturated_fat": "0g",
+    "carbs": "58.2g",
+    "protein": "6.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145235*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100359*3": {
+    "name": "Vegan Tomato Garlic Quinoa",
+    "serving_size": "3 oz",
+    "calories": "91",
+    "total_fat": "1.7g",
+    "saturated_fat": "0g",
+    "carbs": "15.5g",
+    "protein": "2.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100359*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903341*3": {
+    "name": "Parmesan Peppercorn Iceberg Salad",
+    "serving_size": "3 oz",
+    "calories": "121",
+    "total_fat": "10.7g",
+    "saturated_fat": "2g",
+    "carbs": "5.1g",
+    "protein": "2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903341*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117117*1": {
+    "name": "Pan Vegetable Pizza",
+    "serving_size": "1 slice",
+    "calories": "176",
+    "total_fat": "9.4g",
+    "saturated_fat": "4.4g",
+    "carbs": "14.1g",
+    "protein": "12.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117117*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220086*4": {
+    "name": "Mango Banana Yogurt Smoothie",
+    "serving_size": "4 oz",
+    "calories": "87",
+    "total_fat": "0.5g",
+    "saturated_fat": "0.3g",
+    "carbs": "18.8g",
+    "protein": "2.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220086*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090249*1": {
+    "name": "Beets",
+    "serving_size": "1 oz",
+    "calories": "14",
+    "total_fat": "0g",
+    "saturated_fat": null,
+    "carbs": "3.4g",
+    "protein": "0.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090249*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080179*3": {
+    "name": "Diced Chicken",
+    "serving_size": "3 oz",
+    "calories": "101",
+    "total_fat": "2.5g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "20.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080179*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150318*1": {
+    "name": "Grilled Peppers",
+    "serving_size": "1 `oz",
+    "calories": "7",
+    "total_fat": "0.4g",
+    "saturated_fat": "0g",
+    "carbs": "0.9g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150318*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090392*1": {
+    "name": "Greek Dressing",
+    "serving_size": "1 oz",
+    "calories": "90",
+    "total_fat": "9g",
+    "saturated_fat": "1.5g",
+    "carbs": "1g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090392*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100982*3": {
+    "name": "Spicy Mushroom Stir Fry",
+    "serving_size": "3 oz",
+    "calories": "127",
+    "total_fat": "11.1g",
+    "saturated_fat": "0.8g",
+    "carbs": "4.6g",
+    "protein": "3.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100982*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100927*1": {
+    "name": "Vegan Key Lime Cheesecake",
+    "serving_size": "1 each",
+    "calories": "179",
+    "total_fat": "11.9g",
+    "saturated_fat": "8.2g",
+    "carbs": "17.9g",
+    "protein": "1.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100927*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150916*4": {
+    "name": "Lentil Sweet Potato Enchiladas Casserole",
+    "serving_size": "4 oz",
+    "calories": "229",
+    "total_fat": "7.3g",
+    "saturated_fat": "3.4g",
+    "carbs": "29.7g",
+    "protein": "11.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150916*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=529018*1": {
+    "name": "CIlantro",
+    "serving_size": "1 oz",
+    "calories": "0",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=529018*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150144*3": {
+    "name": "Roasted Zucchini and Red Pepper",
+    "serving_size": "3 oz",
+    "calories": "22",
+    "total_fat": "0.8g",
+    "saturated_fat": "0g",
+    "carbs": "3.4g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150144*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119376*1": {
+    "name": "Chocolate Chip Cookie",
+    "serving_size": "1 each",
+    "calories": "188",
+    "total_fat": "8.9g",
+    "saturated_fat": "4g",
+    "carbs": "25.7g",
+    "protein": "2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119376*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115182*4": {
+    "name": "Tomato Black Olive Spinach Farfalle Alfredo",
+    "serving_size": "4 oz",
+    "calories": "165",
+    "total_fat": "9g",
+    "saturated_fat": "4g",
+    "carbs": "18g",
+    "protein": "4.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115182*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126381*3": {
+    "name": "Chicken Salad",
+    "serving_size": "3 oz",
+    "calories": "1560",
+    "total_fat": "92.4g",
+    "saturated_fat": "19.3g",
+    "carbs": "17.5g",
+    "protein": "174.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126381*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=233009*8": {
+    "name": "Oatmilk",
+    "serving_size": "8 oz",
+    "calories": "123",
+    "total_fat": "4.7g",
+    "saturated_fat": "0.5g",
+    "carbs": "17.9g",
+    "protein": "1.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=233009*8"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126035*1": {
+    "name": "Grilled Hot Dog",
+    "serving_size": "1 each",
+    "calories": "168",
+    "total_fat": "14.3g",
+    "saturated_fat": "5g",
+    "carbs": "0.4g",
+    "protein": "9.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126035*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090281*1": {
+    "name": "Lite Caesar Dressing",
+    "serving_size": "1 oz",
+    "calories": "66",
+    "total_fat": "5.7g",
+    "saturated_fat": "0.9g",
+    "carbs": "2.8g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090281*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135171*1": {
+    "name": "Pesto Alfredo Sauce",
+    "serving_size": "1 oz",
+    "calories": "53",
+    "total_fat": "4.5g",
+    "saturated_fat": "2.6g",
+    "carbs": "1.8g",
+    "protein": "1.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135171*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100926*1": {
+    "name": "Vegan Cheesecake New York",
+    "serving_size": "1 each",
+    "calories": "43",
+    "total_fat": "4.3g",
+    "saturated_fat": "2g",
+    "carbs": "4.3g",
+    "protein": "0.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100926*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126636*1": {
+    "name": "Crispy Potato Artichoke Verde Taco",
+    "serving_size": "1 each",
+    "calories": "103",
+    "total_fat": "2.8g",
+    "saturated_fat": "0.4g",
+    "carbs": "17.7g",
+    "protein": "2.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126636*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060178*1": {
+    "name": "Salami Sliced",
+    "serving_size": "1 oz",
+    "calories": "111",
+    "total_fat": "10.1g",
+    "saturated_fat": "4.1g",
+    "carbs": "0g",
+    "protein": "6.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060178*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060100*1": {
+    "name": "Pepperoni Sliced",
+    "serving_size": "1 oz",
+    "calories": "1",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060100*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090430*1": {
+    "name": "Vegan Feta Cheese",
+    "serving_size": null,
+    "calories": null,
+    "total_fat": null,
+    "saturated_fat": null,
+    "carbs": null,
+    "protein": null,
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090430*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040065*4": {
+    "name": "Scrambled Cheesy Cheddar Egg",
+    "serving_size": "4 oz",
+    "calories": "215",
+    "total_fat": "15.5g",
+    "saturated_fat": "4.7g",
+    "carbs": "1.2g",
+    "protein": "16.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040065*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150860*3": {
+    "name": "Rajam Curried Kidney Beans",
+    "serving_size": "3 oz",
+    "calories": "59",
+    "total_fat": "0.9g",
+    "saturated_fat": "0.1g",
+    "carbs": "10.4g",
+    "protein": "2.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150860*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220105*1": {
+    "name": "Parmesan Cheese",
+    "serving_size": "1 oz",
+    "calories": "101",
+    "total_fat": "7.1g",
+    "saturated_fat": "4.1g",
+    "carbs": "1g",
+    "protein": "9.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220105*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150300*2": {
+    "name": "Warm Cinnamon Apples",
+    "serving_size": "2 oz",
+    "calories": "84",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "21.8g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150300*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126355*1": {
+    "name": "Buffalo Chicken, Grilled Onion, Tomato & Provolone Sandwich",
+    "serving_size": "1 ea",
+    "calories": "711",
+    "total_fat": "28.8g",
+    "saturated_fat": "11.4g",
+    "carbs": "70.6g",
+    "protein": "43.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126355*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117118*1": {
+    "name": "Pan Italian Sausage Pizza",
+    "serving_size": "1 slice",
+    "calories": "194",
+    "total_fat": "11.5g",
+    "saturated_fat": "5.4g",
+    "carbs": "13.4g",
+    "protein": "12.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117118*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220055*1": {
+    "name": "Carrot Sticks",
+    "serving_size": "1 oz",
+    "calories": "12",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "2.7g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220055*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102016*4": {
+    "name": "Chocolate Soft Serve Ice Cream",
+    "serving_size": "4 oz",
+    "calories": "35",
+    "total_fat": "0.7g",
+    "saturated_fat": "0.7g",
+    "carbs": "7g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102016*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135104*1": {
+    "name": "Chicken Gravy",
+    "serving_size": "1 oz",
+    "calories": "12",
+    "total_fat": "0.2g",
+    "saturated_fat": "0g",
+    "carbs": "2.3g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135104*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145218*4": {
+    "name": "Basil Fried Rice",
+    "serving_size": "4 oz",
+    "calories": "171",
+    "total_fat": "2.6g",
+    "saturated_fat": "0.7g",
+    "carbs": "32.9g",
+    "protein": "4.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=145218*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080284*4": {
+    "name": "Korean BBQ Chicken",
+    "serving_size": "4 oz",
+    "calories": "226",
+    "total_fat": "12.1g",
+    "saturated_fat": "1.5g",
+    "carbs": "9.8g",
+    "protein": "19g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080284*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135287*2": {
+    "name": "Puttanesca Sauce",
+    "serving_size": "2 oz",
+    "calories": "35",
+    "total_fat": "3.1g",
+    "saturated_fat": "0.1g",
+    "carbs": "1.6g",
+    "protein": "0.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135287*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=902300*3": {
+    "name": "Italian Sausage Balls",
+    "serving_size": "3 oz",
+    "calories": "284",
+    "total_fat": "25.4g",
+    "saturated_fat": "7.5g",
+    "carbs": "4.5g",
+    "protein": "11.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=902300*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903350*1": {
+    "name": "Baby Corn",
+    "serving_size": "1 oz",
+    "calories": "23",
+    "total_fat": "0.3g",
+    "saturated_fat": "0g",
+    "carbs": "5.3g",
+    "protein": "0.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903350*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100928*1": {
+    "name": "Vegan Chocolate Cheesecake",
+    "serving_size": null,
+    "calories": null,
+    "total_fat": null,
+    "saturated_fat": null,
+    "carbs": null,
+    "protein": null,
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100928*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150313*1": {
+    "name": "Leaf Lettuce",
+    "serving_size": "1 oz",
+    "calories": "68",
+    "total_fat": "0.7g",
+    "saturated_fat": "0.1g",
+    "carbs": "12.7g",
+    "protein": "6.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150313*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102021*4": {
+    "name": "Cherry Sorbet Soft Serve",
+    "serving_size": "4 oz",
+    "calories": "27",
+    "total_fat": "0.1g",
+    "saturated_fat": "0.1g",
+    "carbs": "6.4g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102021*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903335*3": {
+    "name": "Greek Salad",
+    "serving_size": "3 oz",
+    "calories": "32",
+    "total_fat": "2.3g",
+    "saturated_fat": "0.4g",
+    "carbs": "2.4g",
+    "protein": "0.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903335*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150363*3": {
+    "name": "Roasted Corn, Black Beans and Tomatoes",
+    "serving_size": "3 oz",
+    "calories": "72",
+    "total_fat": "1.5g",
+    "saturated_fat": "0.1g",
+    "carbs": "12.4g",
+    "protein": "2.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150363*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090299*3": {
+    "name": "Strawberry Yogurt",
+    "serving_size": "3 oz",
+    "calories": "67",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "14.2g",
+    "protein": "2.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090299*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019361*1": {
+    "name": "Buttermilk Biscuit",
+    "serving_size": "1 each",
+    "calories": "272",
+    "total_fat": "12.1g",
+    "saturated_fat": "8.1g",
+    "carbs": "34.3g",
+    "protein": "6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019361*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=529005*1": {
+    "name": "Limes",
+    "serving_size": "1 oz",
+    "calories": "0",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=529005*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019360*1": {
+    "name": "Millet & Chia Burger Buns",
+    "serving_size": "1 EACH",
+    "calories": "1055",
+    "total_fat": "49g",
+    "saturated_fat": "3.8g",
+    "carbs": "139.5g",
+    "protein": "7.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019360*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135031*1": {
+    "name": "Pico de Gallo",
+    "serving_size": "1 OZ",
+    "calories": "7",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "1.5g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135031*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220167*1": {
+    "name": "Sauce Plum (RTU)",
+    "serving_size": "1 oz",
+    "calories": "75",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "19.6g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220167*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126635*1": {
+    "name": "Chorizo Verde Taco",
+    "serving_size": "1 each",
+    "calories": "264",
+    "total_fat": "20.8g",
+    "saturated_fat": "7.4g",
+    "carbs": "10g",
+    "protein": "11.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126635*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151143*3": {
+    "name": "Cracked Black Pepper an Garlic Roasted Parsnips",
+    "serving_size": "3 OZ",
+    "calories": "70",
+    "total_fat": "0.3g",
+    "saturated_fat": "0.1g",
+    "carbs": "16.7g",
+    "protein": "1.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151143*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102008*1": {
+    "name": "Hot Fudge Sauce",
+    "serving_size": "1 oz",
+    "calories": "92",
+    "total_fat": "3.1g",
+    "saturated_fat": "2.3g",
+    "carbs": "15.3g",
+    "protein": "0.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102008*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090271*1": {
+    "name": "Bacon Bits",
+    "serving_size": "1 oz",
+    "calories": "127",
+    "total_fat": "8.7g",
+    "saturated_fat": "3.1g",
+    "carbs": "0.5g",
+    "protein": "12g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090271*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115257*4": {
+    "name": "White Cheddar Mac and Cheese",
+    "serving_size": "4 oz",
+    "calories": "162",
+    "total_fat": "13.3g",
+    "saturated_fat": "7.9g",
+    "carbs": "3.4g",
+    "protein": "9.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115257*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135158*2": {
+    "name": "Southwestern Chipotle Pesto",
+    "serving_size": "2 oz",
+    "calories": "272",
+    "total_fat": "28.6g",
+    "saturated_fat": "2.2g",
+    "carbs": "4.5g",
+    "protein": "0.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135158*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135159*2": {
+    "name": "Sundried Tomato Pesto",
+    "serving_size": "2 oz",
+    "calories": "272",
+    "total_fat": "27.1g",
+    "saturated_fat": "2.5g",
+    "carbs": "4.5g",
+    "protein": "2.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=135159*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151272*2": {
+    "name": "Tomato Basil Bruschetta",
+    "serving_size": "2 oz",
+    "calories": "42",
+    "total_fat": "4.4g",
+    "saturated_fat": "0.6g",
+    "carbs": "1.4g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151272*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090406*1": {
+    "name": "Artichoke Hearts",
+    "serving_size": "1 oz",
+    "calories": "19",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "4.4g",
+    "protein": "1.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090406*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119385*1": {
+    "name": "Greek Pita Flat Bread",
+    "serving_size": "1 each",
+    "calories": "247",
+    "total_fat": "6.2g",
+    "saturated_fat": "1g",
+    "carbs": "41.1g",
+    "protein": "8.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119385*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220191*1": {
+    "name": "Chow Mein Noodles",
+    "serving_size": "1 oz",
+    "calories": "132",
+    "total_fat": "6.1g",
+    "saturated_fat": "0.5g",
+    "carbs": "18.2g",
+    "protein": "3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220191*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150917*3": {
+    "name": "Parmesan Tomatoes and Button Mushrooms",
+    "serving_size": "3 oz",
+    "calories": "72",
+    "total_fat": "4.7g",
+    "saturated_fat": "1.9g",
+    "carbs": "2.9g",
+    "protein": "5.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150917*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019359*2": {
+    "name": "Sliced White Bread",
+    "serving_size": "2 EACH",
+    "calories": "155",
+    "total_fat": "3.6g",
+    "saturated_fat": "0g",
+    "carbs": "32.8g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019359*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=202010*1": {
+    "name": "Sugar Cookie",
+    "serving_size": "1 EACH",
+    "calories": "180",
+    "total_fat": "8g",
+    "saturated_fat": "13g",
+    "carbs": "26g",
+    "protein": "2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=202010*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141118*4": {
+    "name": "French Fries",
+    "serving_size": "4 oz",
+    "calories": "125",
+    "total_fat": "4.7g",
+    "saturated_fat": "2.2g",
+    "carbs": "19.6g",
+    "protein": "2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=141118*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119378*1": {
+    "name": "Oatmeal Raisin Cookie",
+    "serving_size": "1 each",
+    "calories": "178",
+    "total_fat": "6.9g",
+    "saturated_fat": "3g",
+    "carbs": "25.7g",
+    "protein": "3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119378*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090275*1": {
+    "name": "Lite Ranch Dressing",
+    "serving_size": "1 oz",
+    "calories": "76",
+    "total_fat": "6.6g",
+    "saturated_fat": "0.9g",
+    "carbs": "1.9g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090275*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220103*1": {
+    "name": "Vegan Chipotle Mayonnaise",
+    "serving_size": "1 oz",
+    "calories": "96",
+    "total_fat": "11.5g",
+    "saturated_fat": "0g",
+    "carbs": "2g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220103*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080171*1": {
+    "name": "Rotisserie Chicken",
+    "serving_size": "1 each",
+    "calories": "330",
+    "total_fat": "23.8g",
+    "saturated_fat": "6.6g",
+    "carbs": "0.5g",
+    "protein": "27.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080171*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080324*4": {
+    "name": "Pico de Gallo Chicken (purple)",
+    "serving_size": "4 oz",
+    "calories": "122",
+    "total_fat": "5.9g",
+    "saturated_fat": "1.4g",
+    "carbs": "1.5g",
+    "protein": "17.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080324*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090378*1": {
+    "name": "Annie's Lite Raspberry Vinaigrette (purple)",
+    "serving_size": "1 oz",
+    "calories": "26",
+    "total_fat": "2.6g",
+    "saturated_fat": "0.2g",
+    "carbs": "0.7g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090378*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=050160*4": {
+    "name": "Massaman Curry Chicken",
+    "serving_size": "4 oz",
+    "calories": "82",
+    "total_fat": "1.7g",
+    "saturated_fat": "0.7g",
+    "carbs": "9.7g",
+    "protein": "7.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=050160*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019369*1": {
+    "name": "Spinach Tortilla 12\"",
+    "serving_size": "1 each",
+    "calories": "298",
+    "total_fat": "6.7g",
+    "saturated_fat": "2.9g",
+    "carbs": "49g",
+    "protein": "8.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019369*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903345*1": {
+    "name": "Chopped Basil",
+    "serving_size": "1 oz",
+    "calories": "7",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0.7g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903345*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040067*4": {
+    "name": "Scrambled Egg Whites",
+    "serving_size": "4 oz",
+    "calories": "72",
+    "total_fat": "1.8g",
+    "saturated_fat": "0.1g",
+    "carbs": "1.1g",
+    "protein": "12.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=040067*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150306*3": {
+    "name": "Fresh Steamed Green Beans",
+    "serving_size": "3 oz",
+    "calories": "21",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "5.3g",
+    "protein": "1.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150306*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090379*2": {
+    "name": "Vegan Edamame Hummus",
+    "serving_size": "2 oz",
+    "calories": "119",
+    "total_fat": "9.2g",
+    "saturated_fat": "0.7g",
+    "carbs": "5.5g",
+    "protein": "5.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090379*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100316*1": {
+    "name": "Vegan Sliced Gouda Cheese",
+    "serving_size": "1 slice",
+    "calories": "85",
+    "total_fat": "6.4g",
+    "saturated_fat": "5.7g",
+    "carbs": "5.7g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100316*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220062*1": {
+    "name": "Banana Peppers",
+    "serving_size": "1 oz",
+    "calories": "5",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0.9g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220062*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151139*3": {
+    "name": "Roasted Beets & Peaches with Arugula",
+    "serving_size": "3 OZ",
+    "calories": "49",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "10g",
+    "protein": "0.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151139*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220193*1": {
+    "name": "Crispy Chili Oil",
+    "serving_size": "1 oz",
+    "calories": "314",
+    "total_fat": "34g",
+    "saturated_fat": "2.6g",
+    "carbs": "4.5g",
+    "protein": "0.5g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220193*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090377*1": {
+    "name": "Annie's French Dressing (purple)",
+    "serving_size": "1 oz",
+    "calories": "21",
+    "total_fat": "2.1g",
+    "saturated_fat": "0.1g",
+    "carbs": "0.7g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090377*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102015*4": {
+    "name": "Vanilla Soft Serve Ice Cream",
+    "serving_size": null,
+    "calories": null,
+    "total_fat": null,
+    "saturated_fat": null,
+    "carbs": null,
+    "protein": null,
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102015*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090252*1": {
+    "name": "Celery Sticks",
+    "serving_size": "1 oz",
+    "calories": "4",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090252*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090218*1": {
+    "name": "Banana",
+    "serving_size": "1 each",
+    "calories": "110",
+    "total_fat": "0.4g",
+    "saturated_fat": "0.1g",
+    "carbs": "28.2g",
+    "protein": "1.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090218*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060089*1": {
+    "name": "Grilled Chimichuri Pork (purple)",
+    "serving_size": "1 each",
+    "calories": "318",
+    "total_fat": "23.2g",
+    "saturated_fat": "4.5g",
+    "carbs": "3g",
+    "protein": "23.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=060089*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102017*4": {
+    "name": "Salted Caramel Soft Serve Ice Cream",
+    "serving_size": "4 oz",
+    "calories": "34",
+    "total_fat": "1g",
+    "saturated_fat": "0.9g",
+    "carbs": "0g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102017*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150309*3": {
+    "name": "Fresh Steamed Broccoli",
+    "serving_size": "3 oz",
+    "calories": "9",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "1.5g",
+    "protein": "1.1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150309*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=233006*8": {
+    "name": "Chocolate Milk",
+    "serving_size": "8 oz",
+    "calories": "188",
+    "total_fat": "7.7g",
+    "saturated_fat": "4.8g",
+    "carbs": "23.5g",
+    "protein": "7.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=233006*8"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090376*1": {
+    "name": "Annie's Balsamic Vinaigrette (purple)",
+    "serving_size": "1 oz",
+    "calories": "24",
+    "total_fat": "2.4g",
+    "saturated_fat": "0.2g",
+    "carbs": "0.5g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090376*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150308*3": {
+    "name": "Fresh Roasted Carrots",
+    "serving_size": "3 oz",
+    "calories": "45",
+    "total_fat": "1.1g",
+    "saturated_fat": "0.1g",
+    "carbs": "7g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150308*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090308*2": {
+    "name": "Raspberries",
+    "serving_size": "2 oz",
+    "calories": "27",
+    "total_fat": "0.3g",
+    "saturated_fat": "0g",
+    "carbs": "6.2g",
+    "protein": "0.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090308*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090201*1": {
+    "name": "Spinach",
+    "serving_size": "1 oz",
+    "calories": "7",
+    "total_fat": "0.1g",
+    "saturated_fat": "0g",
+    "carbs": "1g",
+    "protein": "0.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090201*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117120*1": {
+    "name": "Pan BBQ Brisket Pizza",
+    "serving_size": "1 slice",
+    "calories": "222",
+    "total_fat": "12.2g",
+    "saturated_fat": "5.5g",
+    "carbs": "13.9g",
+    "protein": "17.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=117120*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102018*4": {
+    "name": "Dole Raspberry Sorbet Soft Serve",
+    "serving_size": "4 oz",
+    "calories": "27",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "6.4g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102018*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102009*1": {
+    "name": "Caramel Sauce",
+    "serving_size": "1 oz",
+    "calories": "105",
+    "total_fat": "0.8g",
+    "saturated_fat": "0.4g",
+    "carbs": "24.1g",
+    "protein": "0.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102009*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220059*1": {
+    "name": "Hummus",
+    "serving_size": "1 OZ",
+    "calories": "71",
+    "total_fat": "6.1g",
+    "saturated_fat": "0g",
+    "carbs": "4.1g",
+    "protein": "1g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220059*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220052*1": {
+    "name": "Picante Sauce",
+    "serving_size": "1 oz",
+    "calories": "19",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "5.6g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220052*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126719*1": {
+    "name": "Grilled Blackened Chicken Thigh",
+    "serving_size": "1 each",
+    "calories": "165",
+    "total_fat": "7.9g",
+    "saturated_fat": "1.9g",
+    "carbs": "1.6g",
+    "protein": "23.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126719*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102023*2": {
+    "name": "Warm Brownie Cheesecake",
+    "serving_size": "2 oz",
+    "calories": "220",
+    "total_fat": "7g",
+    "saturated_fat": "2.6g",
+    "carbs": "27.5g",
+    "protein": "3.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102023*2"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=101019*4": {
+    "name": "Red Lentil Penne Pasta",
+    "serving_size": "4 oz",
+    "calories": "170",
+    "total_fat": "5.3g",
+    "saturated_fat": "0.3g",
+    "carbs": "25.1g",
+    "protein": "9.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=101019*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080583*4": {
+    "name": "Pablano Chikcen",
+    "serving_size": "4 oz",
+    "calories": "134",
+    "total_fat": "5.1g",
+    "saturated_fat": "1.6g",
+    "carbs": "0.7g",
+    "protein": "22.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=080583*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=050300*4": {
+    "name": "Cheddar Cheesy Meatloaf",
+    "serving_size": "4 oz",
+    "calories": "240",
+    "total_fat": "17.1g",
+    "saturated_fat": "7.5g",
+    "carbs": "17.4g",
+    "protein": "10.4g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=050300*4"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150923*3": {
+    "name": "Garlic Ginger Green Beans, Red Pepper & Mushrooms",
+    "serving_size": "3 oz",
+    "calories": "33",
+    "total_fat": "0.8g",
+    "saturated_fat": "0.1g",
+    "carbs": "5.7g",
+    "protein": "1.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150923*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019370*1": {
+    "name": "Tomato Tortilla 12\"",
+    "serving_size": "1 each",
+    "calories": "299",
+    "total_fat": "7.1g",
+    "saturated_fat": "1.2g",
+    "carbs": "49.4g",
+    "protein": "8.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=019370*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=233008*8": {
+    "name": "Vanilla Soy Milk",
+    "serving_size": "8 oz",
+    "calories": "94",
+    "total_fat": "3.8g",
+    "saturated_fat": "0.5g",
+    "carbs": "8.5g",
+    "protein": "7.6g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=233008*8"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102012*1": {
+    "name": "Cherry Filling",
+    "serving_size": "1 oz",
+    "calories": "33",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "8.7g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=102012*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100318*1": {
+    "name": "Vegan Shredded Pepper Jack Cheese",
+    "serving_size": "1 oz",
+    "calories": "85",
+    "total_fat": "6.4g",
+    "saturated_fat": "5.7g",
+    "carbs": "5.7g",
+    "protein": "0g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100318*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220192*1": {
+    "name": "Fried Wonton Strips",
+    "serving_size": "1 oz",
+    "calories": "82",
+    "total_fat": "0.4g",
+    "saturated_fat": "0.1g",
+    "carbs": "16.8g",
+    "protein": "2.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=220192*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150861*3": {
+    "name": "Roasted Carrots and Wilted Spinach",
+    "serving_size": "3 oz",
+    "calories": "45",
+    "total_fat": "1.3g",
+    "saturated_fat": "0.1g",
+    "carbs": "8.4g",
+    "protein": "1.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=150861*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100370*3": {
+    "name": "Lime Red Onion Lentils",
+    "serving_size": "3 oz",
+    "calories": "117",
+    "total_fat": "0.4g",
+    "saturated_fat": "0g",
+    "carbs": "20.5g",
+    "protein": "8.2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=100370*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090492*1": {
+    "name": "Red Onion Diced 1/2\"",
+    "serving_size": "1 oz",
+    "calories": "11",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "2.6g",
+    "protein": "0.3g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=090492*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119380*1": {
+    "name": "White Chocolate Macadamia Nut Cookie",
+    "serving_size": "1 each",
+    "calories": "200",
+    "total_fat": "11g",
+    "saturated_fat": "3g",
+    "carbs": "24g",
+    "protein": "2g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=119380*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903344*1": {
+    "name": "Sugar Snap Peas",
+    "serving_size": "1 oz",
+    "calories": "16",
+    "total_fat": "0g",
+    "saturated_fat": "0g",
+    "carbs": "3.1g",
+    "protein": "0.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=903344*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126659*1": {
+    "name": "Grilled Chicken Teryaki Thigh",
+    "serving_size": "1 each",
+    "calories": "134",
+    "total_fat": "5.6g",
+    "saturated_fat": "1.6g",
+    "carbs": "1.8g",
+    "protein": "20.9g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=126659*1"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151119*3": {
+    "name": "Brown Butter Broccoli Red Onions",
+    "serving_size": "3 oz",
+    "calories": "70",
+    "total_fat": "3.9g",
+    "saturated_fat": "2.3g",
+    "carbs": "7.3g",
+    "protein": "2.7g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=151119*3"
+  },
+  "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115611*4": {
+    "name": "Japchae Korean Glass Noodle Stir Fry",
+    "serving_size": "4 oz",
+    "calories": "245",
+    "total_fat": "6.5g",
+    "saturated_fat": "0.8g",
+    "carbs": "43.1g",
+    "protein": "4.8g",
+    "label_url": "https://nutrition.umd.edu/label.aspx?RecNumAndPort=115611*4"
+  }
+}
