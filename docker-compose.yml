@@ -1,0 +1,51 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: dining
+      POSTGRES_PASSWORD: dining
+      POSTGRES_DB: umd_dining
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U dining -d umd_dining"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  migrate:
+    build: .
+    command: alembic upgrade head
+    environment:
+      DATABASE_URL: postgresql://dining:dining@db:5432/umd_dining
+    depends_on:
+      db:
+        condition: service_healthy
+
+  etl:
+    build: .
+    command: python -m etl.run --days 7
+    environment:
+      DATABASE_URL: postgresql://dining:dining@db:5432/umd_dining
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql://dining:dining@db:5432/umd_dining
+      APP_ENV: production
+      LOG_LEVEL: info
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+    restart: unless-stopped
+
+volumes:
+  pg_data:
